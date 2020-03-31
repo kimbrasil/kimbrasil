@@ -1,11 +1,17 @@
-#EXTINF:-1 channelId="3"  tvg-logo="" group-title="Públicos",CANAL SAUDE 
+#EXTINF:-1 channelId="2" tvg-logo="" group-title="Local",Record TV
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
+
+#EXTINF:-1 channelId="7" tvg-logo="" group-title="Local",Band TV
+https://cdn.liveplus.io/rba2779/rba2779/playlist.m3u8
+
+#EXTINF:-1 channelId="8" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/eb/SBT_Interior.png" group-title="Local",SBT Interior 
+https://5a1c76baf08c0.streamlock.net/z343-live/z343/playlist.m3u8
+
+#EXTINF:-1 channelId="13"  tvg-logo="" group-title="Públicos",CANAL SAUDE 
 https://5a7bcfb834235.streamlock.net/fiocruz/fiocruz/chunklist_w173686205_DVR.m3u8
 
 #EXTINF:-1 channelId="31" tvg-logo="" group-title="Esportes",BAND SPORTS 
 https://evpp.mm.uol.com.br/geob_band/bandsports/playlist.m3u8
-
-#EXTINF:-1 channelId="8" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/eb/SBT_Interior.png" group-title="Local",SBT Interior 
-https://5a1c76baf08c0.streamlock.net/z343-live/z343/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="98" group-title="Entretenimento",98 Live (Belo Horizonte) 
 https://cdn.jmvstream.com/w/LVW-8202/ngrp:LVW8202_WXoGmOx1th_all/playlist.m3u8
