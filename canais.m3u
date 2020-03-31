@@ -1,17 +1,54 @@
-#EXTINF:-1 channelId="2" tvg-logo="" group-title="Local",Record TV
+#EXTINF:-1 channelId="1" tvg-logo="" group-title="Local",TV Brasil
+https://22722d.ha.azioncdn.net/hls/STsEBCLIVE_1080/index.m3u8
+
+#EXTINF:-1 channelId="2" tvg-logo="" group-title="Local",Record SP
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
 
-#EXTINF:-1 channelId="7" tvg-logo="" group-title="Local",Band TV
+#EXTINF:-1 channelId="2" tvg-logo="" group-title="Local",Rede TV
+https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w729149125.m3u8
+
+#EXTINF:-1 channelId="6" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/eb/SBT_Interior.png" group-title="Local",SBT Interior 
+https://5a1c76baf08c0.streamlock.net/z343-live/z343/playlist.m3u8
+
+#EXTINF:-1 channelId="7" tvg-logo="" group-title="Local",Band
 https://cdn.liveplus.io/rba2779/rba2779/playlist.m3u8
 
 #EXTINF:-1 channelId="8" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/eb/SBT_Interior.png" group-title="Local",SBT Interior 
-https://5a1c76baf08c0.streamlock.net/z343-live/z343/playlist.m3u8
+https://cdn.jmvstream.com/w/LVW-8215/ngrp:LVW8215_fL5vRbpRn1_all/playlist.m3u8
 
-#EXTINF:-1 channelId="13"  tvg-logo="" group-title="Públicos",CANAL SAUDE 
+#EXTINF:-1 channelId="9" tvg-logo="" group-title="Local",Rede Minas
+https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_.m3u8
+
+#EXTINF:-1 channelId="11" tvg-logo="" group-title="Local",TV Paraná Turismo
+http://200.189.113.201/hls/tve.m3u8
+
+#EXTINF:-1 channelId="14" tvg-logo="" group-title="Local",TV União DF
+https://596639ebdd89b.streamlock.net/tvuniao/tvuniao/playlist.m3u8
+
+#EXTINF:-1 channelId="21"  tvg-logo="" group-title="Públicos",CANAL SAUDE 
 https://5a7bcfb834235.streamlock.net/fiocruz/fiocruz/chunklist_w173686205_DVR.m3u8
 
 #EXTINF:-1 channelId="31" tvg-logo="" group-title="Esportes",BAND SPORTS 
 https://evpp.mm.uol.com.br/geob_band/bandsports/playlist.m3u8
 
+#EXTINF:-1 channelId="32" tvg-logo="" group-title="Esportes",ALL SPORTS 
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="70" group-title="Educativo",TV UP
+http://caikron.com.br:1935/unipar/tvup/playlist.m3u8
+
+#EXTINF:-1 channelId="71" tvg-logo="" group-title="Educativo",Cascavel TV Educativa
+https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w125430112.m3u8
+
+#EXTINF:-1 channelId="72" tvg-logo="" group-title="Local",TV UFSC
+http://150.162.188.10:8080/hls/1_hi.m3u8
+
+#EXTINF:-1 channelId="73" tvg-logo="" group-title="Local",TV Educativa de Porto Alegre
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+
+#EXTINF:-1 channelId="74" tvg-logo="" group-title="Local",TVE Bahia
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
+
 #EXTINF:-1 tvg-logo="98" group-title="Entretenimento",98 Live (Belo Horizonte) 
 https://cdn.jmvstream.com/w/LVW-8202/ngrp:LVW8202_WXoGmOx1th_all/playlist.m3u8
+
