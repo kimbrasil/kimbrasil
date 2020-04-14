@@ -4,6 +4,9 @@ https://22722d.ha.azioncdn.net/hls/STsEBCLIVE_1080/index.m3u8
 #EXTINF:-1 channelId="2" tvg-logo="" group-title="Local",Rede TV
 https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w729149125.m3u8
 
+#EXTINF:-1 channelId="2" tvg-logo="" group-title="Local",CNT
+https://cdn0.showcase.com.br/hls/cnt/cwb.m3u8
+
 #EXTINF:-1 channelId="6" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/eb/SBT_Interior.png" group-title="Local",SBT Interior 
 https://5a1c76baf08c0.streamlock.net/z343-live/z343/playlist.m3u8
 
@@ -55,7 +58,7 @@ http://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-p.m3u8
 #EXTINF:-1 channelId="30" tvg-logo="" group-title="Esportes",ESPN Extra
 http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_720_av-p.m3u8
 
-#EXTINF:-1 channelId="30" tvg-logo="" group-title="Esportes",FOX Sports
+#EXTINF:-1 channelId="31" tvg-logo="" group-title="Esportes",FOX Sports
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/foxsports.smil/manifest.m3u8?vxttoken=cGF0aFVSST0lMmZsaXZlLWNkbiUyZmZveHNwb3J0cy5zbWlsJTJmKiZleHBpcnk9MTU2MjE5NDM1MyZ4OmlwPTEwLjIwMy4yNC4xOTgsMGFkZGJhYjdiNDEzMDgwMzAzMjVhYjZjNmE1M2RkMGJlZTA4Y2ZkZWIzYTQ0MjVkNDc2NjgwNGQ1NDg5MDM0NA==
 
 #EXTINF:-1 channelId="34" tvg-logo="" group-title="Infantil",Nickelodeon
@@ -75,6 +78,9 @@ http://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/index_720_av-p.m3u8
 
 #EXTINF:-1 channelId="39" tvg-logo="" group-title="Infantil",Play Kids
 https://playplusdlab-lh.akamaihd.net/i/pp_pkids@377825/master.m3u8
+
+#EXTINF:-1 channelId="42" tvg-logo="" group-title="Notícias",Band News
+https://evpp.mm.uol.com.br/geob_band/bandnewstv/chunklist_w5392006.m3u8
 
 #EXTINF:-1 channelId="42" tvg-logo="" group-title="Notícias",Record News
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
@@ -136,6 +142,9 @@ http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
 #EXTINF:-1 channelId="89" tvg-logo="" group-title="Educativo",MultiRio
 http://187.111.97.45:1935/webtv/webtv/live.m3u8
 
+#EXTINF:-1 channelId="88" tvg-logo="" group-title="Educativo",TV UNESP
+https://video.unesp.br/live/indoor.m3u8
+
 #EXTINF:-1 tvg-logo="98" group-title="Rádio",98 Live (Belo Horizonte) 
 https://cdn.jmvstream.com/w/LVW-8202/ngrp:LVW8202_WXoGmOx1th_all/playlist.m3u8
 
@@ -187,9 +196,15 @@ https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 #EXTINF:-1 channelId="251" tvg-logo="" group-title="Internacionais",Bloomberg Europe
 https://www.bloomberg.com/media-manifest/streams/eu.m3u8
 
-#EXTINF:-1 channelId="251" tvg-logo="" group-title="Internacionais",Bloomberg Asia
+#EXTINF:-1 channelId="252" tvg-logo="" group-title="Internacionais",Bloomberg Asia
 https://www.bloomberg.com/media-manifest/streams/asia.m3u8
 
-#EXTINF:-1 channelId="251" tvg-logo="" group-title="Internacionais",News 24 JP
+#EXTINF:-1 channelId="253" tvg-logo="" group-title="Internacionais",News 24 JP
 https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
+
+#EXTINF:-1 channelId="300" tvg-logo="" group-title="Rádio",CBN São Paulo
+https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
+
+#EXTINF:-1 channelId="301" tvg-logo="" group-title="Rádio",CBN Rio
+https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
 
