@@ -1,9 +1,6 @@
 #EXTINF:-1 channelId="1" tvg-logo="" group-title="Local",TV Brasil
 https://22722d.ha.azioncdn.net/hls/STsEBCLIVE_1080/index.m3u8
 
-#EXTINF:-1 channelId="2" tvg-logo="" group-title="Local",Record SP
-https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
-
 #EXTINF:-1 channelId="2" tvg-logo="" group-title="Local",Rede TV
 https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w729149125.m3u8
 
@@ -13,7 +10,7 @@ https://5a1c76baf08c0.streamlock.net/z343-live/z343/playlist.m3u8
 #EXTINF:-1 channelId="7" tvg-logo="" group-title="Local",Band
 https://cdn.liveplus.io/rba2779/rba2779/playlist.m3u8
 
-#EXTINF:-1 channelId="8" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/eb/SBT_Interior.png" group-title="Local",SBT Interior 
+#EXTINF:-1 channelId="8" group-title="Local",TV8
 https://cdn.jmvstream.com/w/LVW-8215/ngrp:LVW8215_fL5vRbpRn1_all/playlist.m3u8
 
 #EXTINF:-1 channelId="9" tvg-logo="" group-title="Local",Rede Minas
@@ -34,6 +31,9 @@ https://evpp.mm.uol.com.br/geob_band/bandsports/playlist.m3u8
 #EXTINF:-1 channelId="32" tvg-logo="" group-title="Esportes",ALL SPORTS 
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
 
+#EXTINF:-1 channelId="32" tvg-logo="" group-title="Infantil",Play kids
+https://playplusdlab-lh.akamaihd.net/i/pp_pkids@377825/master.m3u8
+
 #EXTINF:-1 tvg-logo="70" group-title="Educativo",TV UP
 http://caikron.com.br:1935/unipar/tvup/playlist.m3u8
 
@@ -51,4 +51,11 @@ http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
 
 #EXTINF:-1 tvg-logo="98" group-title="Entretenimento",98 Live (Belo Horizonte) 
 https://cdn.jmvstream.com/w/LVW-8202/ngrp:LVW8202_WXoGmOx1th_all/playlist.m3u8
+https://radio98fm-lh.akamaihd.net/i/pp_1@359238/index_1_av-p.m3u8
+
+#EXTINF:-1 channelId="102" tvg-logo="" group-title="Local",Record São Paulo
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
+
+#EXTINF:-1 channelId="103" tvg-logo="" group-title="Local",Record Belo Horizonte
+https://playplusbh-lh.akamaihd.net/i/pp_bh@377862/master.m3u8
 
