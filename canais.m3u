@@ -52,10 +52,13 @@ http://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-p.m3u8
 #EXTINF:-1 channelId="30" tvg-logo="" group-title="Esportes",ESPN Extra
 http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_720_av-p.m3u8
 
-#EXTINF:-1 channelId="30" tvg-logo="" group-title="Esportes",Fox Sports
+#EXTINF:-1 channelId="30" tvg-logo="" group-title="Esportes",FOX Sports
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/foxsports.smil/manifest.m3u8?vxttoken=cGF0aFVSST0lMmZsaXZlLWNkbiUyZmZveHNwb3J0cy5zbWlsJTJmKiZleHBpcnk9MTU2MjE5NDM1MyZ4OmlwPTEwLjIwMy4yNC4xOTgsMGFkZGJhYjdiNDEzMDgwMzAzMjVhYjZjNmE1M2RkMGJlZTA4Y2ZkZWIzYTQ0MjVkNDc2NjgwNGQ1NDg5MDM0NA==
 
-#EXTINF:-1 channelId="36" tvg-logo="" group-title="Infantil",Discovery Kids
+#EXTINF:-1 channelId="34" tvg-logo="" group-title="Infantil",Nickelodeon
+https://live-orig-oiplay.online.go.oi.com.br/live-cdn/nickelodeon.smil/chunklist_b1101581_sleng.m3u8
+
+#EXTINF:-1 channelId="35" tvg-logo="" group-title="Infantil",Discovery Kids
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverykids.smil/chunklist_b1101581_sleng.m3u8
 
 #EXTINF:-1 channelId="36" tvg-logo="" group-title="Infantil",Disney Channel
@@ -79,11 +82,17 @@ https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
 #EXTINF:-1 channelId="43" tvg-logo="" group-title="Documentários",Discovery
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverychannel.smil/chunklist_b1431167_sleng.m3u8
 
-#EXTINF:-1 channelId="59" tvg-logo="" group-title="Local",TV Transamérica
+#EXTINF:-1 channelId="59" tvg-logo="" group-title="Rádio",TV Transamérica
 http://582b8d3a8267b.streamlock.net/ponto2/transamerica2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="70" group-title="Educativo",TV UP
-http://caikron.com.br:1935/unipar/tvup/playlist.m3u8
+#EXTINF:-1 channelId="60" tvg-logo="" group-title="Variedades",FX
+https://live-orig-oiplay.online.go.oi.com.br/live-cdn/fx.smil/chunklist_b1101581_sleng.m3u8
+
+#EXTINF:-1 channelId="60" tvg-logo="" group-title="Variedades",FOX
+https://live-orig-oiplay.online.go.oi.com.br/live-cdn/foxhd.smil/chunklist_b1101581_sleng.m3u8
+
+#EXTINF:-1 channelId="60" tvg-logo="" group-title="Variedades",FOX Premium
+https://live-orig-oiplay.online.go.oi.com.br/live-cdn/foxpremium1hd.smil/chunklist_b1101581_sleng.m3u8
 
 #EXTINF:-1 channelId="71" tvg-logo="" group-title="Educativo",Cascavel TV Educativa
 https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w125430112.m3u8
@@ -139,8 +148,11 @@ https://playplusbh-lh.akamaihd.net/i/pp_bh@377862/master.m3u8
 #EXTINF:-1 channelId="120" tvg-logo="" group-title="Rurais",Agro Brasil TV
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 
-#EXTINF:-1 channelId="120" tvg-logo="" group-title="Rurais",Terra Viva
+#EXTINF:-1 channelId="121" tvg-logo="" group-title="Rurais",Terra Viva
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
+
+#EXTINF:-1 channelId="121" tvg-logo="" group-title="Música",MTV
+https://live-orig-oiplay.online.go.oi.com.br/live-cdn/mtv.smil/chunklist_b1101581_sleng.m3u8
 
 #EXTINF:-1 channelId="201" tvg-logo="" group-title="Públicos",TV Câmara 1
 https://stream3.camara.gov.br/tv1/manifest.m3u8
