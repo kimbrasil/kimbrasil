@@ -7,8 +7,8 @@ https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w729149125.m3u8
 #EXTINF:-1 channelId="6" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/eb/SBT_Interior.png" group-title="Local",SBT Interior 
 https://5a1c76baf08c0.streamlock.net/z343-live/z343/playlist.m3u8
 
-#EXTINF:-1 channelId="7" tvg-logo="" group-title="Local",Band
-https://cdn.liveplus.io/rba2779/rba2779/playlist.m3u8
+#EXTINF:-1 channelId="2" tvg-logo="" group-title="Local",Band SP
+http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
 
 #EXTINF:-1 channelId="8" group-title="Local",TV8
 https://cdn.jmvstream.com/w/LVW-8215/ngrp:LVW8215_fL5vRbpRn1_all/playlist.m3u8
@@ -16,23 +16,71 @@ https://cdn.jmvstream.com/w/LVW-8215/ngrp:LVW8215_fL5vRbpRn1_all/playlist.m3u8
 #EXTINF:-1 channelId="9" tvg-logo="" group-title="Local",Rede Minas
 https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_.m3u8
 
+#EXTINF:-1 channelId="10" tvg-logo="" group-title="Local",TV Cultura
+https://cdn.jmvstream.com/w/LVW-8403/LVW8403_bIBvekk9QA/chunklist.m3u8
+
 #EXTINF:-1 channelId="11" tvg-logo="" group-title="Local",TV Paraná Turismo
 http://200.189.113.201/hls/tve.m3u8
+
+#EXTINF:-1 channelId="13" tvg-logo="" group-title="Local",TV Gazeta
+http://api.new.livestream.com:80/accounts/5381476/events/8947634/live.m3u8
 
 #EXTINF:-1 channelId="14" tvg-logo="" group-title="Local",TV União DF
 https://596639ebdd89b.streamlock.net/tvuniao/tvuniao/playlist.m3u8
 
-#EXTINF:-1 channelId="21"  tvg-logo="" group-title="Públicos",CANAL SAUDE 
+#EXTINF:-1 channelId="14" tvg-logo="" group-title="Local",Master TV
+http://wowza4.catve.com.br:1935/mastertv/livestream/live.m3u8
+
+#EXTINF:-1 channelId="21"  tvg-logo="" group-title="Públicos",Canal Saúde
 https://5a7bcfb834235.streamlock.net/fiocruz/fiocruz/chunklist_w173686205_DVR.m3u8
 
-#EXTINF:-1 channelId="31" tvg-logo="" group-title="Esportes",BAND SPORTS 
+#EXTINF:-1 channelId="25" tvg-logo="" group-title="Esportes",Band Sports
 https://evpp.mm.uol.com.br/geob_band/bandsports/playlist.m3u8
 
-#EXTINF:-1 channelId="32" tvg-logo="" group-title="Esportes",ALL SPORTS 
+#EXTINF:-1 channelId="26" tvg-logo="" group-title="Esportes",ALL Sports
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
 
-#EXTINF:-1 channelId="32" tvg-logo="" group-title="Infantil",Play kids
+#EXTINF:-1 channelId="27" tvg-logo="" group-title="Esportes",ESPN Brasil
+https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 channelId="28" tvg-logo="" group-title="Esportes",ESPN
+https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 channelId="29" tvg-logo="" group-title="Esportes",ESPN 2
+http://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-p.m3u8
+
+#EXTINF:-1 channelId="30" tvg-logo="" group-title="Esportes",ESPN Extra
+http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_720_av-p.m3u8
+
+#EXTINF:-1 channelId="30" tvg-logo="" group-title="Esportes",Fox Sports
+https://live-orig-oiplay.online.go.oi.com.br/live-cdn/foxsports.smil/manifest.m3u8?vxttoken=cGF0aFVSST0lMmZsaXZlLWNkbiUyZmZveHNwb3J0cy5zbWlsJTJmKiZleHBpcnk9MTU2MjE5NDM1MyZ4OmlwPTEwLjIwMy4yNC4xOTgsMGFkZGJhYjdiNDEzMDgwMzAzMjVhYjZjNmE1M2RkMGJlZTA4Y2ZkZWIzYTQ0MjVkNDc2NjgwNGQ1NDg5MDM0NA==
+
+#EXTINF:-1 channelId="36" tvg-logo="" group-title="Infantil",Discovery Kids
+https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverykids.smil/chunklist_b1101581_sleng.m3u8
+
+#EXTINF:-1 channelId="36" tvg-logo="" group-title="Infantil",Disney Channel
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-p.m3u8
+
+#EXTINF:-1 channelId="37" tvg-logo="" group-title="Infantil",Disney Junior
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_720_av-p.m3u8
+
+#EXTINF:-1 channelId="38" tvg-logo="" group-title="Infantil",Disney XD
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/index_720_av-p.m3u8
+
+#EXTINF:-1 channelId="39" tvg-logo="" group-title="Infantil",Play Kids
 https://playplusdlab-lh.akamaihd.net/i/pp_pkids@377825/master.m3u8
+
+#EXTINF:-1 channelId="42" tvg-logo="" group-title="Notícias",Record News
+https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
+
+#EXTINF:-1 channelId="43" tvg-logo="" group-title="Notícias",CNN Brasil (6h às 23h)
+https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
+
+#EXTINF:-1 channelId="43" tvg-logo="" group-title="Documentários",Discovery
+https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverychannel.smil/chunklist_b1431167_sleng.m3u8
+
+#EXTINF:-1 channelId="59" tvg-logo="" group-title="Local",TV Transamérica
+http://582b8d3a8267b.streamlock.net/ponto2/transamerica2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="70" group-title="Educativo",TV UP
 http://caikron.com.br:1935/unipar/tvup/playlist.m3u8
@@ -40,7 +88,7 @@ http://caikron.com.br:1935/unipar/tvup/playlist.m3u8
 #EXTINF:-1 channelId="71" tvg-logo="" group-title="Educativo",Cascavel TV Educativa
 https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w125430112.m3u8
 
-#EXTINF:-1 channelId="72" tvg-logo="" group-title="Local",TV UFSC
+#EXTINF:-1 channelId="72" tvg-logo="" group-title="Educativo",TV UFSC
 http://150.162.188.10:8080/hls/1_hi.m3u8
 
 #EXTINF:-1 channelId="73" tvg-logo="" group-title="Local",TV Educativa de Porto Alegre
@@ -49,13 +97,66 @@ http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 #EXTINF:-1 channelId="74" tvg-logo="" group-title="Local",TVE Bahia
 http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
 
-#EXTINF:-1 tvg-logo="98" group-title="Entretenimento",98 Live (Belo Horizonte) 
+#EXTINF:-1 channelId="75" tvg-logo="" group-title="Local",Web TV Minas Ubá
+http://tv01.logicahost.com.br:1935/webtvminas/webtvminas/live.m3u8
+
+#EXTINF:-1 channelId="77" tvg-logo="" group-title="Local",TV Capital
+https://59f2354c05961.streamlock.net:1443/tvcapital/_definst_/tvcapital/playlist.m3u8
+
+#EXTINF:-1 channelId="78" tvg-logo="" group-title="Local",Rede ConecTV
+http://stream02.msolutionbrasil.com.br:1935/conectv/live/livestream.m3u8
+
+#EXTINF:-1 channelId="79" tvg-logo="" group-title="Local",TV Cinec
+http://tv01.logicahost.com.br:1935/tvcinec/tvcinec/live.m3u8
+
+#EXTINF:-1 channelId="80" tvg-logo="" group-title="Local",Summer TV
+http://tv01.logicahost.com.br:1935/summertv/summertv/live.m3u8
+
+#EXTINF:-1 channelId="81" tvg-logo="" group-title="Local",TCM HD (Mossoró)
+http://live.tcm10.com.br/tcm10.m3u8
+
+#EXTINF:-1 channelId="81" tvg-logo="" group-title="Local",Top TV
+https://5d23bdca513db.streamlock.net:443/8006/8006/playlist.m3u8
+
+#EXTINF:-1 channelId="88" tvg-logo="" group-title="Educativo",TV FAAP
+http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
+
+#EXTINF:-1 channelId="89" tvg-logo="" group-title="Educativo",MultiRio
+http://187.111.97.45:1935/webtv/webtv/live.m3u8
+
+#EXTINF:-1 tvg-logo="98" group-title="Rádio",98 Live (Belo Horizonte) 
 https://cdn.jmvstream.com/w/LVW-8202/ngrp:LVW8202_WXoGmOx1th_all/playlist.m3u8
-https://radio98fm-lh.akamaihd.net/i/pp_1@359238/index_1_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="100" group-title="Rádio",FM O Dia (Rio de Janeiro)
+http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b898304.m3u8
 
 #EXTINF:-1 channelId="102" tvg-logo="" group-title="Local",Record São Paulo
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
 
 #EXTINF:-1 channelId="103" tvg-logo="" group-title="Local",Record Belo Horizonte
 https://playplusbh-lh.akamaihd.net/i/pp_bh@377862/master.m3u8
+
+#EXTINF:-1 channelId="120" tvg-logo="" group-title="Rurais",Agro Brasil TV
+http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+
+#EXTINF:-1 channelId="120" tvg-logo="" group-title="Rurais",Terra Viva
+http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
+
+#EXTINF:-1 channelId="201" tvg-logo="" group-title="Públicos",TV Câmara 1
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+
+#EXTINF:-1 channelId="202" tvg-logo="" group-title="Públicos",TV Câmara 2
+https://stream3.camara.gov.br/tv2/manifest.m3u8
+
+#EXTINF:-1 channelId="250" tvg-logo="" group-title="Internacionais",Bloomberg USA
+https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
+
+#EXTINF:-1 channelId="251" tvg-logo="" group-title="Internacionais",Bloomberg Europe
+https://www.bloomberg.com/media-manifest/streams/eu.m3u8
+
+#EXTINF:-1 channelId="251" tvg-logo="" group-title="Internacionais",Bloomberg Asia
+https://www.bloomberg.com/media-manifest/streams/asia.m3u8
+
+#EXTINF:-1 channelId="251" tvg-logo="" group-title="Internacionais",News 24 JP
+https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
 
