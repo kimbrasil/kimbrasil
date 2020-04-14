@@ -31,6 +31,9 @@ https://596639ebdd89b.streamlock.net/tvuniao/tvuniao/playlist.m3u8
 #EXTINF:-1 channelId="14" tvg-logo="" group-title="Local",Master TV
 http://wowza4.catve.com.br:1935/mastertv/livestream/live.m3u8
 
+#EXTINF:-1 channelId="14" tvg-logo="" group-title="Local",SESC TV
+https://slbps-sambatech.akamaized.net/live/2472%2C5164%2C6c1f2e9d204aab6374f0bec27834aa95%3Bbase64np%3BPvsLdjEM0QdLO5Q%21/amlst%3APvvzbyxH1AZUexiy/chunklist_b2723840.m3u8
+
 #EXTINF:-1 channelId="21"  tvg-logo="" group-title="Públicos",Canal Saúde
 https://5a7bcfb834235.streamlock.net/fiocruz/fiocruz/chunklist_w173686205_DVR.m3u8
 
@@ -76,8 +79,8 @@ https://playplusdlab-lh.akamaihd.net/i/pp_pkids@377825/master.m3u8
 #EXTINF:-1 channelId="42" tvg-logo="" group-title="Notícias",Record News
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
 
-#EXTINF:-1 channelId="43" tvg-logo="" group-title="Notícias",CNN Brasil (6h às 23h)
-https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
+#EXTINF:-1 channelId="43" tvg-logo="" group-title="Notícias",CNN Brasil
+https://streaming.cnnbrasil.com.br:443/cnndigital_mainOutput2.m3u8
 
 #EXTINF:-1 channelId="43" tvg-logo="" group-title="Documentários",Discovery
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverychannel.smil/chunklist_b1431167_sleng.m3u8
@@ -144,6 +147,24 @@ https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
 
 #EXTINF:-1 channelId="103" tvg-logo="" group-title="Local",Record Belo Horizonte
 https://playplusbh-lh.akamaihd.net/i/pp_bh@377862/master.m3u8
+
+#EXTINF:-1 channelId="104" tvg-logo="" group-title="Local",Record Rio
+https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
+
+#EXTINF:-1 channelId="105" tvg-logo="" group-title="Local",Record Bahia
+https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/master.m3u8
+
+#EXTINF:-1 channelId="106" tvg-logo="" group-title="Local",Record Distrito Federal
+https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/master.m3u8
+
+#EXTINF:-1 channelId="107" tvg-logo="" group-title="Local",Record Pará
+https://playpluspa-lh.akamaihd.net/i/pp_pa@377468/master.m3u8
+
+#EXTINF:-1 channelId="108" tvg-logo="" group-title="Local",Record Goiás
+https://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/master.m3u8
+
+#EXTINF:-1 channelId="109" tvg-logo="" group-title="Local",Record Rio Grande do Sul
+https://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/master.m3u8
 
 #EXTINF:-1 channelId="120" tvg-logo="" group-title="Rurais",Agro Brasil TV
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
