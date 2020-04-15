@@ -1,7 +1,7 @@
-#EXTINF:-1 channelId="1" tvg-logo="" group-title="Local",TV Brasil
+#EXTINF:-1 channelId="1" tvg-logo="" group-title="Principais",TV Brasil
 https://22722d.ha.azioncdn.net/hls/STsEBCLIVE_1080/index.m3u8
 
-#EXTINF:-1 channelId="2" tvg-logo="" group-title="Local",Rede TV
+#EXTINF:-1 channelId="2" tvg-logo="" group-title="Principais",Rede TV
 https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w729149125.m3u8
 
 #EXTINF:-1 channelId="3" tvg-logo="" group-title="Local",CNT
@@ -13,25 +13,25 @@ https://streamingserverbr1.septe.com.br:1936/hls/foztv.m3u8
 #EXTINF:-1 channelId="5" tvg-logo="" group-title="Local",Rede Brasil
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
 
-#EXTINF:-1 channelId="6" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/eb/SBT_Interior.png" group-title="Local",SBT Interior 
+#EXTINF:-1 channelId="6" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/eb/SBT_Interior.png" group-title="Principais",SBT Interior 
 https://5a1c76baf08c0.streamlock.net/z343-live/z343/playlist.m3u8
 
-#EXTINF:-1 channelId="7" tvg-logo="" group-title="Local",Band SP
+#EXTINF:-1 channelId="7" tvg-logo="" group-title="Principais",Band SP
 http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
 
 #EXTINF:-1 channelId="8" group-title="Local",TV8
 https://cdn.jmvstream.com/w/LVW-8215/ngrp:LVW8215_fL5vRbpRn1_all/playlist.m3u8
 
-#EXTINF:-1 channelId="9" tvg-logo="" group-title="Local",Rede Minas
+#EXTINF:-1 channelId="9" tvg-logo="" group-title="Principais",Rede Minas
 https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_.m3u8
 
-#EXTINF:-1 channelId="10" tvg-logo="" group-title="Local",TV Cultura
+#EXTINF:-1 channelId="10" tvg-logo="" group-title="Principais",TV Cultura
 https://cdn.jmvstream.com/w/LVW-8403/LVW8403_bIBvekk9QA/chunklist.m3u8
 
 #EXTINF:-1 channelId="11" tvg-logo="" group-title="Local",TV Paraná Turismo
 http://200.189.113.201/hls/tve.m3u8
 
-#EXTINF:-1 channelId="13" tvg-logo="" group-title="Local",TV Gazeta
+#EXTINF:-1 channelId="13" tvg-logo="" group-title="Principais",TV Gazeta
 http://api.new.livestream.com:80/accounts/5381476/events/8947634/live.m3u8
 
 #EXTINF:-1 channelId="14" tvg-logo="" group-title="Local",TV União DF
@@ -103,7 +103,7 @@ https://streaming.cnnbrasil.com.br:443/cnndigital_mainOutput2.m3u8
 #EXTINF:-1 channelId="43" tvg-logo="" group-title="Documentários",Discovery
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverychannel.smil/chunklist_b1431167_sleng.m3u8
 
-#EXTINF:-1 channelId="59" tvg-logo="" group-title="Rádio",TV Transamérica
+#EXTINF:-1 channelId="59" tvg-logo="" group-title="Local",TV Transamérica
 http://582b8d3a8267b.streamlock.net/ponto2/transamerica2/playlist.m3u8
 
 #EXTINF:-1 channelId="60" tvg-logo="" group-title="Variedades",FX
@@ -166,28 +166,28 @@ https://cdn.jmvstream.com/w/LVW-8202/ngrp:LVW8202_WXoGmOx1th_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="100" group-title="Rádio",FM O Dia (Rio de Janeiro)
 http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b898304.m3u8
 
-#EXTINF:-1 channelId="102" tvg-logo="" group-title="Local",Record São Paulo
+#EXTINF:-1 channelId="102" tvg-logo="" group-title="Principais",Record São Paulo
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
 
-#EXTINF:-1 channelId="103" tvg-logo="" group-title="Local",Record Belo Horizonte
+#EXTINF:-1 channelId="103" tvg-logo="" group-title="Principais",Record Belo Horizonte
 https://playplusbh-lh.akamaihd.net/i/pp_bh@377862/master.m3u8
 
-#EXTINF:-1 channelId="104" tvg-logo="" group-title="Local",Record Rio
+#EXTINF:-1 channelId="104" tvg-logo="" group-title="Principais",Record Rio
 https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
 
-#EXTINF:-1 channelId="105" tvg-logo="" group-title="Local",Record Bahia
+#EXTINF:-1 channelId="105" tvg-logo="" group-title="Principais",Record Bahia
 https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/master.m3u8
 
-#EXTINF:-1 channelId="106" tvg-logo="" group-title="Local",Record Distrito Federal
+#EXTINF:-1 channelId="106" tvg-logo="" group-title="Principais",Record Distrito Federal
 https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/master.m3u8
 
-#EXTINF:-1 channelId="107" tvg-logo="" group-title="Local",Record Pará
+#EXTINF:-1 channelId="107" tvg-logo="" group-title="Principais",Record Pará
 https://playpluspa-lh.akamaihd.net/i/pp_pa@377468/master.m3u8
 
-#EXTINF:-1 channelId="108" tvg-logo="" group-title="Local",Record Goiás
+#EXTINF:-1 channelId="108" tvg-logo="" group-title="Principais",Record Goiás
 https://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/master.m3u8
 
-#EXTINF:-1 channelId="109" tvg-logo="" group-title="Local",Record Rio Grande do Sul
+#EXTINF:-1 channelId="109" tvg-logo="" group-title="Principais",Record Rio Grande do Sul
 https://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/master.m3u8
 
 #EXTINF:-1 channelId="120" tvg-logo="" group-title="Rurais",Agro Brasil TV
@@ -204,6 +204,36 @@ https://stream3.camara.gov.br/tv1/manifest.m3u8
 
 #EXTINF:-1 channelId="202" tvg-logo="" group-title="Públicos",TV Câmara 2
 https://stream3.camara.gov.br/tv2/manifest.m3u8
+
+#EXTINF:-1 channelId="229" tvg-logo="" group-title="Internacional - Inglês",CBS News
+https://www.cbsnews.com/common/video/dai_prod.m3u8
+
+#EXTINF:-1 channelId="230" tvg-logo="" group-title="Internacional - Inglês",Wheater Channel
+https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+
+#EXTINF:-1 channelId="231" tvg-logo="" group-title="Internacional - Inglês",Russia Today News
+https://rt-news.secure.footprint.net/1103.m3u8
+
+#EXTINF:-1 channelId="232" tvg-logo="" group-title="Internacional - Inglês",Russia Today Documentary
+https://rt-doc.secure.footprint.net/1101_2500Kb.m3u8
+
+#EXTINF:-1 channelId="234" tvg-logo="" group-title="Internacional - Inglês",Voice of America
+https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
+
+#EXTINF:-1 channelId="235" tvg-logo="" group-title="Internacional - Inglês",NHK World
+https://b-nhkwlive-xjp.akamaized.net/hls/live/2003458-b/nhkwlive-xjp/index.m3u8
+
+#EXTINF:-1 channelId="236" tvg-logo="" group-title="Internacional - Inglês",Newsy
+https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8
+
+#EXTINF:-1 channelId="237" tvg-logo="" group-title="Internacional - Inglês",ABC News
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
+#EXTINF:-1 channelId="237" tvg-logo="" group-title="Internacional - Inglês",Aljazeera
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+
+#EXTINF:-1 channelId="249" tvg-logo="" group-title="Internacional - Inglês",United Nations TV
+https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/master.m3u8
 
 #EXTINF:-1 channelId="250" tvg-logo="" group-title="Internacional - Inglês",Bloomberg USA
 https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
@@ -247,6 +277,9 @@ http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3
 #EXTINF:-1 channelId="274" tvg-logo="" group-title="Internacional - Francês",BFM Paris
 http://bfmparishdslive-lh.akamaihd.net/i/DVMR_PARIS@429747/master.m3u8
 
+#EXTINF:-1 channelId="280" tvg-logo="" group-title="Internacional - Italiano",Radio Italia TV
+http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/master.m3u8
+
 #EXTINF:-1 channelId="280" tvg-logo="" group-title="Internacional - Italiano",Rai News
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
 
@@ -256,14 +289,20 @@ http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8
 #EXTINF:-1 channelId="282" tvg-logo="" group-title="Internacional - Italiano",Rai Premium
 http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
 
-#EXTINF:-1 channelId="283" tvg-logo="" group-title="Internacional - Italiano",Rai Movie
-http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+#EXTINF:-1 channelId="283" tvg-logo="" group-title="Internacional - Italiano",Rai 3
+http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
 
-#EXTINF:-1 channelId="284" tvg-logo="" group-title="Internacional - Italiano",Rai Gulp
-http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8
+#EXTINF:-1 channelId="284" tvg-logo="" group-title="Internacional - Italiano",Rai 4
+https://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/master.m3u8
 
 #EXTINF:-1 channelId="285" tvg-logo="" group-title="Internacional - Italiano",Rai 5
 http://b2everyrai-lh.akamaihd.net:80/i/rai5_1@182695/master.m3u8
+
+#EXTINF:-1 channelId="286" tvg-logo="" group-title="Internacional - Italiano",Rai Movie
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+
+#EXTINF:-1 channelId="287" tvg-logo="" group-title="Internacional - Italiano",Rai Gulp
+http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8
 
 #EXTINF:-1 channelId="288" tvg-logo="" group-title="Internacional - Coreano",TV Chosun
 http://live.chosun.gscdn.com/live/_definst_/tvchosun1.stream/playlist.m3u8
@@ -289,9 +328,39 @@ http://176.9.123.140:1935/msg116s/msg116s/playlist.m3u8
 #EXTINF:-1 channelId="294" tvg-logo="" group-title="Internacional - Grego",Sigma
 http://81.21.47.74/hls/live.m3u8
 
-#EXTINF:-1 channelId="300" tvg-logo="" group-title="Rádio",CBN São Paulo
+#EXTINF:-1 channelId="310" tvg-logo="" group-title="Internacional - Espanhol",Russia Today Español
+https://rt-esp.secure.footprint.net/1102.m3u8
+
+#EXTINF:-1 channelId="311" tvg-logo="" group-title="Internacional - Espanhol",Deutsche Welle Español
+https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
+
+#EXTINF:-1 channelId="312" tvg-logo="" group-title="Internacional - Espanhol",France 24 Español
+http://f24hls-i.akamaihd.net/hls/live/520844/F24_ES_LO_HLS/master.m3u8
+
+#EXTINF:-1 channelId="313" tvg-logo="" group-title="Internacional - Espanhol",Telesur
+https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
+
+#EXTINF:-1 channelId="314" tvg-logo="" group-title="Internacional - Espanhol",HispanTV Iran
+https://5a61de8ed719d.streamlock.net/live/smil:live.smil/chunklist_w2093826190_b644100_slen.m3u8
+
+#EXTINF:-1 channelId="315" tvg-logo="" group-title="Internacional - Espanhol",Telemax Argentina
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+
+#EXTINF:-1 channelId="316" tvg-logo="" group-title="Internacional - Espanhol",Canal 2 Jujuy Argentina
+http://api.new.livestream.com:80/accounts/679322/events/3782013/live.m3u8
+
+#EXTINF:-1 channelId="317" tvg-logo="" group-title="Internacional - Espanhol",T5 HD Argentina
+http://api.new.livestream.com:80/accounts/20819504/events/8664197/live.m3u8
+
+#EXTINF:-1 channelId="325" tvg-logo="" group-title="Internacional - Espanhol",TeleMedellín Colombia
+http://api.new.livestream.com:80/accounts/4608897/events/7111788/live.m3u8
+
+#EXTINF:-1 channelId="326" tvg-logo="" group-title="Internacional - Espanhol",Canal Telecafé Colombia
+http://api.new.livestream.com:80/accounts/1015476/events/7158511/live.m3u8
+
+#EXTINF:-1 channelId="500" tvg-logo="" group-title="Rádio",CBN São Paulo
 https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
 
-#EXTINF:-1 channelId="301" tvg-logo="" group-title="Rádio",CBN Rio
+#EXTINF:-1 channelId="501" tvg-logo="" group-title="Rádio",CBN Rio
 https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
 
