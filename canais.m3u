@@ -220,6 +220,9 @@ https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:-1 channelId="202" tvg-logo="" group-title="Públicos",TV Câmara 2
 https://stream3.camara.gov.br/tv2/manifest.m3u8
 
+#EXTINF:-1 channelId="228" tvg-logo="" group-title="Internacional - Inglês",NASA TV
+http://la-akamaihd.mooo.com:6878/play/ufIjBpZ/9
+
 #EXTINF:-1 channelId="229" tvg-logo="" group-title="Internacional - Inglês",CBS News
 https://www.cbsnews.com/common/video/dai_prod.m3u8
 
@@ -244,26 +247,38 @@ https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8
 #EXTINF:-1 channelId="237" tvg-logo="" group-title="Internacional - Inglês",ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
-#EXTINF:-1 channelId="237" tvg-logo="" group-title="Internacional - Inglês",Aljazeera
+#EXTINF:-1 channelId="238" tvg-logo="" group-title="Internacional - Inglês",Aljazeera
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
-#EXTINF:-1 channelId="238" tvg-logo="" group-title="Internacional - Inglês",Olympic Channel
+#EXTINF:-1 channelId="239" tvg-logo="" group-title="Internacional - Inglês",Olympic Channel
 http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
 
-#EXTINF:-1 channelId="248" tvg-logo="" group-title="Internacional - Inglês",TV BRICS
+#EXTINF:-1 channelId="240" tvg-logo="" group-title="Internacional - Inglês",TV BRICS
 https://brics.bonus-tv.ru/cdn/brics/english/playlist.m3u8
 
-#EXTINF:-1 channelId="249" tvg-logo="" group-title="Internacional - Inglês",United Nations TV
-https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/master.m3u8
+#EXTINF:-1 channelId="241" tvg-logo="" group-title="Internacional - Inglês",CNN
+http://la-akamaihd.mooo.com:6878/play/ufIjBpZ/1
 
-#EXTINF:-1 channelId="250" tvg-logo="" group-title="Internacional - Inglês",Bloomberg USA
+#EXTINF:-1 channelId="242" tvg-logo="" group-title="Internacional - Inglês",Bloomberg USA
 https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 
-#EXTINF:-1 channelId="251" tvg-logo="" group-title="Internacional - Inglês",Bloomberg Europe
+#EXTINF:-1 channelId="243" tvg-logo="" group-title="Internacional - Inglês",Bloomberg Europe
 https://www.bloomberg.com/media-manifest/streams/eu.m3u8
 
-#EXTINF:-1 channelId="252" tvg-logo="" group-title="Internacional - Inglês",Bloomberg Asia
+#EXTINF:-1 channelId="244" tvg-logo="" group-title="Internacional - Inglês",Bloomberg Asia
 https://www.bloomberg.com/media-manifest/streams/asia.m3u8
+
+#EXTINF:-1 channelId="245" tvg-logo="" group-title="Internacional - Inglês",BBC News Europe
+http://la-akamaihd.mooo.com:6878/play/ufIjBpZ/2
+
+#EXTINF:-1 channelId="246" tvg-logo="" group-title="Internacional - Inglês",United Nations TV
+https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/master.m3u8
+
+#EXTINF:-1 channelId="251" tvg-logo="" group-title="Internacional - Japonês",Weather News
+http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8
+
+#EXTINF:-1 channelId="252" tvg-logo="" group-title="Internacional - Japonês",BBC News Japan
+https://bbc1.media.ylive.jp/53ccb8ca9cb44762b3f1f4aecc85b7ba/ap-northeast-1/5690807595001/profile_0/chunklist.m3u8
 
 #EXTINF:-1 channelId="253" tvg-logo="" group-title="Internacional - Japonês",News 24 JP
 https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
@@ -363,6 +378,9 @@ http://ebsonair.ebs.co.kr:1935/ebsufamilypc/familypc1m/playlist.m3u8
 
 #EXTINF:-1 channelId="293" tvg-logo="" group-title="Internacional - Coreano",EBSi
 http://ebsonair.ebs.co.kr:1935/plus1familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 channelId="293" tvg-logo="" group-title="Internacional - Coreano",KBS World
+http://la-akamaihd.mooo.com:30001/kbsworld/
 
 #EXTINF:-1 channelId="301" tvg-logo="" group-title="Internacional - Grego",Crete TV
 http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8
