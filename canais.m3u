@@ -13,7 +13,7 @@ https://streamingserverbr1.septe.com.br:1936/hls/foztv.m3u8
 #EXTINF:-1 channelId="5" tvg-logo="" group-title="Local",Rede Brasil
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
 
-#EXTINF:-1 channelId="6" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/eb/SBT_Interior.png" group-title="Principais",SBT Interior 
+#EXTINF:-1 channelId="6" tvg-logo="" group-title="Principais",SBT Interior 
 https://5a1c76baf08c0.streamlock.net/z343-live/z343/playlist.m3u8
 
 #EXTINF:-1 channelId="7" tvg-logo="" group-title="Principais",Band SP
@@ -30,9 +30,6 @@ https://cdn.jmvstream.com/w/LVW-8403/LVW8403_bIBvekk9QA/chunklist.m3u8
 
 #EXTINF:-1 channelId="11" tvg-logo="" group-title="Local",TV Paraná Turismo
 http://200.189.113.201/hls/tve.m3u8
-
-#EXTINF:-1 channelId="11" tvg-logo="" group-title="Principais",Globo SP
-http://lista.serverpower.me:80/live/000641/000641/41094.rtmp
 
 #EXTINF:-1 channelId="13" tvg-logo="" group-title="Principais",TV Gazeta
 http://api.new.livestream.com:80/accounts/5381476/events/8947634/live.m3u8
