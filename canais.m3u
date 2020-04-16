@@ -226,7 +226,7 @@ http://la-akamaihd.mooo.com:6878/play/ufIjBpZ/9
 #EXTINF:-1 channelId="229" tvg-logo="" group-title="Internacional - Inglês",CBS News
 https://www.cbsnews.com/common/video/dai_prod.m3u8
 
-#EXTINF:-1 channelId="230" tvg-logo="" group-title="Internacional - Inglês",Wheater Channel
+#EXTINF:-1 channelId="230" tvg-logo="" group-title="Internacional - Inglês",Weather Channel
 https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 
 #EXTINF:-1 channelId="231" tvg-logo="" group-title="Internacional - Inglês",Russia Today News
