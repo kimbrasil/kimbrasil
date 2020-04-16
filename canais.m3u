@@ -31,6 +31,9 @@ https://cdn.jmvstream.com/w/LVW-8403/LVW8403_bIBvekk9QA/chunklist.m3u8
 #EXTINF:-1 channelId="11" tvg-logo="" group-title="Local",TV Paraná Turismo
 http://200.189.113.201/hls/tve.m3u8
 
+#EXTINF:-1 channelId="11" tvg-logo="" group-title="Principais",Globo SP
+http://lista.serverpower.me:80/live/000641/000641/41094.rtmp
+
 #EXTINF:-1 channelId="13" tvg-logo="" group-title="Principais",TV Gazeta
 http://api.new.livestream.com:80/accounts/5381476/events/8947634/live.m3u8
 
@@ -91,7 +94,7 @@ http://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/index_720_av-p.m3u8
 #EXTINF:-1 channelId="39" tvg-logo="" group-title="Infantil",Play Kids
 https://playplusdlab-lh.akamaihd.net/i/pp_pkids@377825/master.m3u8
 
-#EXTINF:-1 channelId="42" tvg-logo="" group-title="Notícias",Band News
+#EXTINF:-1 channelId="41" tvg-logo="" group-title="Notícias",Band News
 https://evpp.mm.uol.com.br/geob_band/bandnewstv/chunklist_w5392006.m3u8
 
 #EXTINF:-1 channelId="42" tvg-logo="" group-title="Notícias",Record News
@@ -196,8 +199,20 @@ http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 #EXTINF:-1 channelId="121" tvg-logo="" group-title="Rurais",Terra Viva
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
 
-#EXTINF:-1 channelId="121" tvg-logo="" group-title="Música",MTV
+#EXTINF:-1 channelId="130" tvg-logo="" group-title="Música",MTV Brasil
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/mtv.smil/chunklist_b1101581_sleng.m3u8
+
+#EXTINF:-1 channelId="131" tvg-logo="" group-title="Música",MTV Norge
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+
+#EXTINF:-1 channelId="133" tvg-logo="" group-title="Música",Latino
+https://5b38ce71f1f00.streamlock.net/8080/8080/master.m3u8
+
+#EXTINF:-1 channelId="134" tvg-logo="" group-title="Música",Music Top Argentina
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/master.m3u8
+
+#EXTINF:-1 channelId="135" tvg-logo="" group-title="Música",RTL Italia
+http://rtl-radio-stream-thron.akamaized.net/live-video/video1/ngrp:video1/chunklist_b1196000.m3u8
 
 #EXTINF:-1 channelId="201" tvg-logo="" group-title="Públicos",TV Câmara 1
 https://stream3.camara.gov.br/tv1/manifest.m3u8
@@ -232,6 +247,12 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 channelId="237" tvg-logo="" group-title="Internacional - Inglês",Aljazeera
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
+#EXTINF:-1 channelId="238" tvg-logo="" group-title="Internacional - Inglês",Olympic Channel
+http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
+
+#EXTINF:-1 channelId="248" tvg-logo="" group-title="Internacional - Inglês",TV BRICS
+https://brics.bonus-tv.ru/cdn/brics/english/playlist.m3u8
+
 #EXTINF:-1 channelId="249" tvg-logo="" group-title="Internacional - Inglês",United Nations TV
 https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/master.m3u8
 
@@ -250,17 +271,35 @@ https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
 #EXTINF:-1 channelId="254" tvg-logo="" group-title="Internacional - Alemão",Das Erste ARD1
 https://mcdn.daserste.de/daserste/de/master.m3u8
 
+#EXTINF:-1 channelId="255" tvg-logo="" group-title="Internacional - Alemão",WDR
+http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
+
+#EXTINF:-1 channelId="255" tvg-logo="" group-title="Internacional - Alemão",BR
+http://livestreams.br.de/i/bfssued_germany@119890/master.m3u8
+
 #EXTINF:-1 channelId="257" tvg-logo="" group-title="Internacional - Alemão",Tagesschau 24
 https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8
 
 #EXTINF:-1 channelId="258" tvg-logo="" group-title="Internacional - Alemão",Deutsche Welle
 http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/index_1_av-b.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 channelId="259" tvg-logo="" group-title="Internacional - Inglês",DW English
+#EXTINF:-1 channelId="259" tvg-logo="" group-title="Internacional - Alemão",HR Fernsehen
+http://live1_hr-lh.akamaihd.net/i/hr_fernsehen@75910/master.m3u8
+
+#EXTINF:-1 channelId="263" tvg-logo="" group-title="Internacional - Alemão",W24 Werbung Austria
+https://ms03.w24.at/W24/smil:liveevent.smil/chunklist.m3u8
+
+#EXTINF:-1 channelId="264" tvg-logo="" group-title="Internacional - Inglês",DW English
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 channelId="265" tvg-logo="" group-title="Internacional - Inglês",Key TV - Florida Keys & Key West
 http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
+
+#EXTINF:-1 channelId="265" tvg-logo="" group-title="Internacional - Inglês",WGN Chicago
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
+
+#EXTINF:-1 channelId="269" tvg-logo="" group-title="Internacional - Inglês",Fashion Midnight
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 
 #EXTINF:-1 channelId="270" tvg-logo="" group-title="Internacional - Inglês",France 24 - EN
 http://f24hls-i.akamaihd.net/hls/live/221193-b/F24_EN_LO_HLS/master_900.m3u8
@@ -277,8 +316,11 @@ http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3
 #EXTINF:-1 channelId="274" tvg-logo="" group-title="Internacional - Francês",BFM Paris
 http://bfmparishdslive-lh.akamaihd.net/i/DVMR_PARIS@429747/master.m3u8
 
-#EXTINF:-1 channelId="280" tvg-logo="" group-title="Internacional - Italiano",Radio Italia TV
+#EXTINF:-1 channelId="276" tvg-logo="" group-title="Internacional - Italiano",Radio Italia TV
 http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/master.m3u8
+
+#EXTINF:-1 channelId="276" tvg-logo="" group-title="Internacional - Italiano",Canale 7
+http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
 
 #EXTINF:-1 channelId="280" tvg-logo="" group-title="Internacional - Italiano",Rai News
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
@@ -313,19 +355,28 @@ http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/playlist.m3u8
 #EXTINF:-1 channelId="290" tvg-logo="" group-title="Internacional - Coreano",Arirang Int
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
-#EXTINF:-1 channelId="291" tvg-logo="" group-title="Internacional - Grego",Crete TV
+#EXTINF:-1 channelId="291" tvg-logo="" group-title="Internacional - Coreano",EBS1
+http://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 channelId="292" tvg-logo="" group-title="Internacional - Coreano",EBS Kids
+http://ebsonair.ebs.co.kr:1935/ebsufamilypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 channelId="293" tvg-logo="" group-title="Internacional - Coreano",EBSi
+http://ebsonair.ebs.co.kr:1935/plus1familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 channelId="301" tvg-logo="" group-title="Internacional - Grego",Crete TV
 http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8
 
-#EXTINF:-1 channelId="292" tvg-logo="" group-title="Internacional - Grego",Ionian TV
+#EXTINF:-1 channelId="302" tvg-logo="" group-title="Internacional - Grego",Ionian TV
 http://stream.ioniantv.gr:8081/ionian/live/playlist.m3u8
 
-#EXTINF:-1 channelId="293" tvg-logo="" group-title="Internacional - Grego",Kontra
+#EXTINF:-1 channelId="303" tvg-logo="" group-title="Internacional - Grego",Kontra
 http://flashcloud.mediacdn.com/live/kontratv/.m3u8
 
-#EXTINF:-1 channelId="294" tvg-logo="" group-title="Internacional - Grego",Syros
+#EXTINF:-1 channelId="304" tvg-logo="" group-title="Internacional - Grego",Syros
 http://176.9.123.140:1935/msg116s/msg116s/playlist.m3u8
 
-#EXTINF:-1 channelId="294" tvg-logo="" group-title="Internacional - Grego",Sigma
+#EXTINF:-1 channelId="305" tvg-logo="" group-title="Internacional - Grego",Sigma
 http://81.21.47.74/hls/live.m3u8
 
 #EXTINF:-1 channelId="310" tvg-logo="" group-title="Internacional - Espanhol",Russia Today Español
@@ -352,11 +403,50 @@ http://api.new.livestream.com:80/accounts/679322/events/3782013/live.m3u8
 #EXTINF:-1 channelId="317" tvg-logo="" group-title="Internacional - Espanhol",T5 HD Argentina
 http://api.new.livestream.com:80/accounts/20819504/events/8664197/live.m3u8
 
+#EXTINF:-1 channelId="317" tvg-logo="" group-title="Internacional - Espanhol",UniRio Argentina
+https://59db7e671a1ad.streamlock.net/uniriotv/uniriotv/chunklist_w1505381440.m3u8
+
+#EXTINF:-1 channelId="320" tvg-logo="" group-title="Internacional - Espanhol",Multivision Bolivia
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+
+#EXTINF:-1 channelId="321" tvg-logo="" group-title="Internacional - Espanhol",PAT Bolivia
+http://tv.redpat.tv:1935/patbolivia/patlapaz/playlist.m3u8
+
 #EXTINF:-1 channelId="325" tvg-logo="" group-title="Internacional - Espanhol",TeleMedellín Colombia
 http://api.new.livestream.com:80/accounts/4608897/events/7111788/live.m3u8
 
 #EXTINF:-1 channelId="326" tvg-logo="" group-title="Internacional - Espanhol",Canal Telecafé Colombia
 http://api.new.livestream.com:80/accounts/1015476/events/7158511/live.m3u8
+
+#EXTINF:-1 channelId="326" tvg-logo="" group-title="Internacional - Espanhol", Milenio Mexico
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+
+#EXTINF:-1 channelId="341" tvg-logo="" group-title="Internacional - Espanhol",RTVE 1 HD España
+http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
+
+#EXTINF:-1 channelId="342" tvg-logo="" group-title="Internacional - Espanhol",RTVE 24h España
+https://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
+
+#EXTINF:-1 channelId="343" tvg-logo="" group-title="Internacional - Espanhol",TeleMadrid España
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8
+
+#EXTINF:-1 channelId="344" tvg-logo="" group-title="Internacional - Espanhol",Cuatro HD España
+http://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8
+
+#EXTINF:-1 channelId="345" tvg-logo="" group-title="Internacional - Espanhol",TeleCinco España
+http://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_1.m3u8
+
+#EXTINF:-1 channelId="346" tvg-logo="" group-title="Internacional - Espanhol",Boing España
+http://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
+
+#EXTINF:-1 channelId="347" tvg-logo="" group-title="Internacional - Espanhol",Be Mad España
+https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
+
+#EXTINF:-1 channelId="348" tvg-logo="" group-title="Internacional - Espanhol",Energy España
+https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8
+
+#EXTINF:-1 channelId="350" tvg-logo="" group-title="Internacional - Galego",TV Galicia
+http://europa-crtvg.flumotion.com/playlist.m3u8
 
 #EXTINF:-1 channelId="500" tvg-logo="" group-title="Rádio",CBN São Paulo
 https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
