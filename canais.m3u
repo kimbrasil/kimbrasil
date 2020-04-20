@@ -46,6 +46,9 @@ https://slbps-sambatech.akamaized.net/live/2472%2C5164%2C6c1f2e9d204aab6374f0bec
 #EXTINF:-1 channelId="17" tvg-logo="" group-title="Local",Rede União
 https://stmv1.ifantasy.com.br/tvu/tvu/playlist.m3u8
 
+#EXTINF:-1 channelId="18" tvg-logo="https://listaiptv.gratis/logos/imagens/tvmax.png" group-title="Local", TV Max Rio
+https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/playlist.m3u8
+
 #EXTINF:-1 channelId="21"  tvg-logo="" group-title="Públicos",Canal Saúde
 https://5a7bcfb834235.streamlock.net/fiocruz/fiocruz/chunklist_w173686205_DVR.m3u8
 
@@ -542,9 +545,6 @@ https://livetvhooq.akamaized.net/4333904e5f68426cae808a645e882206/eu-central-1/5
 #EXTINF:-1 channelId="607" tvg-id="RT America-US" tvg-name="RT America-US" tvg-language="Inglês" tvg-logo="https://www.rt.com/static/block/touch-icon/apple-touch-icon-144x144-precomposed.png" group-title="Internacional - Inglês",RT America
 https://rt-usa.secure.footprint.net/1105.m3u8
 
-#EXTINF:-1 channelId="608" tvg-id="" tvg-name="" tvg-language="Inglês" tvg-logo="https://i.imgur.com/1ZKpTT5.jpg" group-title="Internacional - Inglês",Sportskool
-https://a.jsrdn.com/broadcast/22697/+0000/hi/c.m3u8
-
 #EXTINF:-1 channelId="609" tvg-id="" tvg-name="" tvg-language="Inglês" tvg-logo="https://www.bestappletv.com/wp-content/uploads/2017/10/STADIUM_LOGO-620x350_2-620x350.jpg" group-title="Internacional - Inglês",Stadium
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 
@@ -553,3 +553,4 @@ https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/playl
 
 #EXTINF:-1 channelId="611" tvg-id="" tvg-name="" tvg-language="Inglês" tvg-logo="https://i.imgur.com/2IOP6LI.jpg" group-title="Internacional - Inglês",The Wall Street Journal
 http://wsjlivehls-lh.akamaihd.net/i/events1_1@174990/master.m3u8
+
