@@ -67,7 +67,7 @@ http://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-p.m3u8
 #EXTINF:-1 channelId="30" tvg-logo="" group-title="Esportes",ESPN Extra
 http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_720_av-p.m3u8
 
-#EXTINF:-1 channelId="31" tvg-logo="" group-title="Esportes",FOX Sports
+#EXTINF:-1 channelId="31" tvg-logo="" tvg-logo="https://i.imgur.com/6XPNpid.png" group-title="Esportes",FOX Sports
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/foxsports.smil/manifest.m3u8?vxttoken=cGF0aFVSST0lMmZsaXZlLWNkbiUyZmZveHNwb3J0cy5zbWlsJTJmKiZleHBpcnk9MTU2MjE5NDM1MyZ4OmlwPTEwLjIwMy4yNC4xOTgsMGFkZGJhYjdiNDEzMDgwMzAzMjVhYjZjNmE1M2RkMGJlZTA4Y2ZkZWIzYTQ0MjVkNDc2NjgwNGQ1NDg5MDM0NA==
 
 #EXTINF:-1 channelId="32" tvg-logo="" group-title="Esportes",EI Plus SD
@@ -217,14 +217,41 @@ https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:-1 channelId="202" tvg-logo="" group-title="Públicos",TV Câmara 2
 https://stream3.camara.gov.br/tv2/manifest.m3u8
 
+#EXTINF:-1 channelId="219" tvg-id="" tvg-name="" tvg-language="Inglês" tvg-logo="https://assets.tvplayer.com/tvos/images/channels/585.png" group-title="Internacional - Inglês",Fail Army
+https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
+
+#EXTINF:-1 channelId="220" tvg-logo="" group-title="Internacional - Inglês",Weather Channel
+https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+
+#EXTINF:-1 channelId="221" tvg-id="Sky News UK" tvg-name="Sky News UK" tvg-language="Inglês" tvg-logo="https://i.imgur.com/WvNd8yg.png" group-title="Internacional - Inglês",Sky News
+http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8
+
+#EXTINF:-1 channelId="222" tvg-id="" tvg-name="" tvg-language="Inglês" tvg-logo="https://i.imgur.com/ixywxhs.jpg" group-title="Internacional - Inglês",Adult Swim
+https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master_Layer7.m3u8
+
+#EXTINF:-1 channelId="223" tvg-id="" tvg-name="" tvg-language="Inglês" tvg-logo="https://static.iptv-epg.com/us/BuzzrTV.us.png" group-title="Internacional - Inglês",Buzzr
+https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_4.m3u8
+
+#EXTINF:-1 channelId="224" tvg-id="" tvg-name="" tvg-language="Inglês" tvg-logo="https://pmcdeadline2.files.wordpress.com/2018/10/et-live1-e1541006731547.png" group-title="Internacional - Inglês",Entertainment Tonight
+https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
+
+#EXTINF:-1 channelId="225" tvg-id="" tvg-name="" tvg-language="Inglês" tvg-logo="https://static1.squarespace.com/static/5a6f534f017db2d628751be1/t/5a6f5557652deada67290f54" group-title="Internacional - Inglês",Edge Sports
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
+
+#EXTINF:-1 channelId="226"  tvg-id="" tvg-name="" tvg-language="Inglês" tvg-logo="https://i.imgur.com/jt6g1Jt.png" group-title="Internacional - Inglês",Horizon Sports UK
+https://a.jsrdn.com/broadcast/22705/+0000/hi/c.m3u8
+
+#EXTINF:-1 channelId="227" tvg-logo="" group-title="Internacional - Inglês",Box Hits UK
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
+
 #EXTINF:-1 channelId="228" tvg-logo="" group-title="Internacional - Inglês",NASA TV
 http://la-akamaihd.mooo.com:6878/play/ufIjBpZ/9
 
 #EXTINF:-1 channelId="229" tvg-logo="" group-title="Internacional - Inglês",CBS News
 https://www.cbsnews.com/common/video/dai_prod.m3u8
 
-#EXTINF:-1 channelId="230" tvg-logo="" group-title="Internacional - Inglês",Weather Channel
-https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#EXTINF:-1 channelId="230" tvg-id="RT HD UK" tvg-name="RT HD UK" tvg-language="Inglês" tvg-logo="https://i.imgur.com/ULzpPky.png" group-title="Internacional - Inglês",RT UK
+http://rt-uk.secure.footprint.net/1106.m3u8
 
 #EXTINF:-1 channelId="231" tvg-logo="" group-title="Internacional - Inglês",Russia Today News
 https://rt-news.secure.footprint.net/1103.m3u8
@@ -271,6 +298,15 @@ http://la-akamaihd.mooo.com:6878/play/ufIjBpZ/2
 #EXTINF:-1 channelId="246" tvg-logo="" group-title="Internacional - Inglês",United Nations TV
 https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/master.m3u8
 
+#EXTINF:-1 channelId="247" tvg-id="" tvg-name="" tvg-language="Inglês" tvg-logo="https://cbsnews3.cbsistatic.com/hub/i/r/2019/09/24/0d50a028-008e-4bc3-b644-d37bad126c61/logo-cbsn-boston-1920x1080.jpg" group-title="Internacional - Inglês",CBS News Boston
+https://dai.google.com/linear/hls/event/26FJK7wRSo6RhPsK70XS_w/master.m3u8?iu=/4128/CBS.BOSTON.OTT
+
+#EXTINF:-1 channelId="248" tvg-id="" tvg-name="" tvg-language="Inglês" tvg-logo="https://cbsnews1.cbsistatic.com/hub/i/r/2019/06/10/f864d4e3-8707-4b99-9cc0-ba1778552e15/thumbnail/logo-cbsnla-1920x1080-new.jpg" group-title="Internacional - Inglês",CBS News Los Angeles
+https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?iu=/4128/CBS.LA.OTT
+
+#EXTINF:-1 channelId="249" tvg-id="" tvg-name="" tvg-language="Inglês" tvg-logo="https://cbsnews2.cbsistatic.com/hub/i/r/2019/06/10/d0b656c8-f79a-4492-946a-68278fcda687/thumbnail/logo-cbsnny-1920x1080-new.jpg" group-title="Internacional - Inglês",CBS News New York
+https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8?iu=/4128/CBS.NY.OTT
+
 #EXTINF:-1 channelId="251" tvg-logo="" group-title="Internacional - Japonês",Weather News
 http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8
 
@@ -307,8 +343,14 @@ http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8?sd=10
 #EXTINF:-1 channelId="265" tvg-logo="" group-title="Internacional - Inglês",Key TV - Florida Keys & Key West
 http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
 
-#EXTINF:-1 channelId="265" tvg-logo="" group-title="Internacional - Inglês",WGN Chicago
+#EXTINF:-1 channelId="266" tvg-logo="" group-title="Internacional - Inglês",WGN Chicago
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
+
+#EXTINF:-1 channelId="267" tvg-id="" tvg-name="" tvg-language="Inglês" tvg-logo="" group-title="Internacional - Inglês",FOX News
+https://fncgohls-i.akamaihd.net/hls/live/263399/FNCGOHLSv2/master.m3u8
+
+#EXTINF:-1 channelId="268" tvg-id="" tvg-name="" tvg-language="Inglês" tvg-logo="https://i.imgur.com/6XPNpid.png" group-title="Internacional - Inglês",FOX Sports HD
+http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 
 #EXTINF:-1 channelId="269" tvg-logo="" group-title="Internacional - Inglês",Fashion Midnight
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
@@ -463,9 +505,51 @@ https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8
 #EXTINF:-1 channelId="350" tvg-logo="" group-title="Internacional - Galego",TV Galicia
 http://europa-crtvg.flumotion.com/playlist.m3u8
 
+#EXTINF:-1 channelId="361" tvg-logo="" group-title="Internacional - Português",Porto Canal
+https://streamer-b02.videos.sapo.pt/live/portocanal/playlist.m3u8
+
+#EXTINF:-1 channelId="362" tvg-logo="" group-title="Internacional - Português",Trace Toca Moçambique
+http://d2ktlibtvvj8vp.cloudfront.net/trace_toca/6/prog_index.m3u8
+
 #EXTINF:-1 channelId="500" tvg-logo="" group-title="Rádio",CBN São Paulo
 https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
 
 #EXTINF:-1 channelId="501" tvg-logo="" group-title="Rádio",CBN Rio
 https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
 
+#EXTINF:-1 channelId="600" tvg-id="" tvg-name="" tvg-language="Inglês" tvg-logo="https://i.imgur.com/0oRXnzz.png" group-title="Internacional - Inglês",KBVR TV
+http://klive-a.akamaihd.net/dc-0/live/hls/p/391241/e/0_bthpnu1j/sd/10000/t/YwqLo1YivB_aumq-LxAuWg/master.m3u8
+
+#EXTINF:-1 channelId="601" tvg-id="" tvg-name="" tvg-language="Inglês" tvg-logo="https://i.imgur.com/39NuAwl.png" group-title="Internacional - Inglês",Law And Crime Network
+https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/master.m3u8
+
+#EXTINF:-1 channelId="602" tvg-id="" tvg-name="" tvg-language="Inglês" tvg-logo="https://i.imgur.com/XzKinh7.jpg" group-title="Internacional - Inglês",Fashion Channel
+https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 channelId="603" tvg-id="" tvg-name="" tvg-language="Inglês" tvg-logo="https://i.imgur.com/A4GMBN6.png" group-title="Internacional - Inglês",Red Bull TV
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+
+#EXTINF:-1 channelId="604" tvg-id="" tvg-name="" tvg-language="Inglês" tvg-logo="https://i.imgur.com/pIuJqYk.png" group-title="Internacional - Inglês",Movie Kingdom
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
+
+#EXTINF:-1 channelId="605" tvg-id="" tvg-name="National Geographic Asia" tvg-language="Inglês" tvg-logo="https://i.imgur.com/FOFEg4F.png" group-title="Internacional - Inglês",National Geographic Asia
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
+
+#EXTINF:-1 channelId="606" tvg-id="" tvg-name="" tvg-language="Inglês" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR_NQzkcFezQ43TjlpI-V91ywrmRV_-5oq7CZRwYzxukHSyRTES" group-title="Internacional - Inglês",OUTDOOR CHANNEL
+https://livetvhooq.akamaized.net/4333904e5f68426cae808a645e882206/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1576672231~exp=9007200831413222~acl=/4333904e5f68426cae808a645e882206/*/profile_2/chunklist.m3u8*~hmac=d22ed12147e6fe5936f8198fcf71838cb4651880f2ac0f4fdea39fb2b8a054b7
+
+#EXTINF:-1 channelId="607" tvg-id="RT America-US" tvg-name="RT America-US" tvg-language="Inglês" tvg-logo="https://www.rt.com/static/block/touch-icon/apple-touch-icon-144x144-precomposed.png" group-title="Internacional - Inglês",RT America
+https://rt-usa.secure.footprint.net/1105.m3u8
+
+#EXTINF:-1 channelId="608" tvg-id="" tvg-name="" tvg-language="Inglês" tvg-logo="https://i.imgur.com/1ZKpTT5.jpg" group-title="Internacional - Inglês",Sportskool
+https://a.jsrdn.com/broadcast/22697/+0000/hi/c.m3u8
+
+#EXTINF:-1 channelId="609" tvg-id="" tvg-name="" tvg-language="Inglês" tvg-logo="https://www.bestappletv.com/wp-content/uploads/2017/10/STADIUM_LOGO-620x350_2-620x350.jpg" group-title="Internacional - Inglês",Stadium
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+
+#EXTINF:-1 channelId="610" tvg-id="" tvg-name="" tvg-language="Inglês" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mB9l6rHPU5feWQg5I7xyag5bc9-fS-suqi5sg=s900-mo-c-c0xffffffff-rj-k-no" group-title="Internacional - Inglês",Tastemade
+https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/playlist.m3u8
+
+#EXTINF:-1 channelId="611" tvg-id="" tvg-name="" tvg-language="Inglês" tvg-logo="https://i.imgur.com/2IOP6LI.jpg" group-title="Internacional - Inglês",The Wall Street Journal
+http://wsjlivehls-lh.akamaihd.net/i/events1_1@174990/master.m3u8
