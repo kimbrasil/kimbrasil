@@ -373,35 +373,29 @@ http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3
 #EXTINF:-1 channelId="274" tvg-logo="" group-title="Internacional - Francês",BFM Paris
 http://bfmparishdslive-lh.akamaihd.net/i/DVMR_PARIS@429747/master.m3u8
 
-#EXTINF:-1 channelId="276" tvg-logo="" group-title="Internacional - Italiano",Radio Italia TV
-http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/master.m3u8
+#EXTINF:-1 channelId="280" tvg-id="" tvg-name="" tvg-language="Coreano" tvg-logo="https://i.imgur.com/xLL7Sxm.png" group-title="Internacional - Coreano",TVWorkNet
+http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
 
-#EXTINF:-1 channelId="276" tvg-logo="" group-title="Internacional - Italiano",Canale 7
-http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
+#EXTINF:-1 channelId="281" tvg-id="" tvg-name="YTN DMB" tvg-language="Coreano" tvg-logo="https://i.imgur.com/fdFQonN.jpg" group-title="Internacional - Coreano",YTN DMB
+http://slive.ytn.co.kr:1935/dmb/ydlive_20140419_1/playlist.m3u8
 
-#EXTINF:-1 channelId="280" tvg-logo="" group-title="Internacional - Italiano",Rai News
-https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
+#EXTINF:-1 channelId="282" tvg-id="" tvg-name="" tvg-language="Coreano" tvg-logo="https://i.imgur.com/AkqrMqB.png" group-title="Internacional - Coreano",YTN KOREAN
+http://ytnmmd.mmdlive.lldns.net/ytnmmd/9484b70302db4786886ae40308bf45a1/playlist.m3u8
 
-#EXTINF:-1 channelId="281" tvg-logo="" group-title="Internacional - Italiano",Rai Yoyo
-http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8
+#EXTINF:-1 channelId="283" tvg-id="" tvg-name="" tvg-language="Coreano" tvg-logo="https://i.imgur.com/FIzME5L.jpg" group-title="Internacional - Coreano",YTN SCIENCE
+http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
 
-#EXTINF:-1 channelId="282" tvg-logo="" group-title="Internacional - Italiano",Rai Premium
-http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
+#EXTINF:-1 channelId="284" tvg-id="" tvg-name="" tvg-language="Coreano" tvg-logo="https://i.imgur.com/JNmRU3V.png" group-title="Internacional - Coreano",SBS International
+https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8
 
-#EXTINF:-1 channelId="283" tvg-logo="" group-title="Internacional - Italiano",Rai 3
-http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
+#EXTINF:-1 channelId="285" tvg-id="" tvg-name="" tvg-language="Coreano" tvg-logo="https://i.imgur.com/lJdOstp.png" group-title="Internacional - Coreano",SBS Plus
+https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8
 
-#EXTINF:-1 channelId="284" tvg-logo="" group-title="Internacional - Italiano",Rai 4
-https://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/master.m3u8
+#EXTINF:-1 channelId="286" tvg-id="" tvg-name="" tvg-language="Coreano" tvg-logo="https://i.imgur.com/S1YWrNd.jpg" group-title="Internacional - Coreano",SBS Star
+https://streaming-a-802.cdn.nextologies.com/SBS_18/playlist.m3u8
 
-#EXTINF:-1 channelId="285" tvg-logo="" group-title="Internacional - Italiano",Rai 5
-http://b2everyrai-lh.akamaihd.net:80/i/rai5_1@182695/master.m3u8
-
-#EXTINF:-1 channelId="286" tvg-logo="" group-title="Internacional - Italiano",Rai Movie
-http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
-
-#EXTINF:-1 channelId="287" tvg-logo="" group-title="Internacional - Italiano",Rai Gulp
-http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8
+#EXTINF:-1 channelId="287" tvg-id="" tvg-name="" tvg-language="Coreano" tvg-logo="https://i.imgur.com/wqlTcbI.png" group-title="Internacional - Coreano",TBS
+http://tbs.hscdn.com/tbstvweb/tbstv/chunklist_w1331473189.m3u8
 
 #EXTINF:-1 channelId="288" tvg-logo="" group-title="Internacional - Coreano",TV Chosun
 http://live.chosun.gscdn.com/live/_definst_/tvchosun1.stream/playlist.m3u8
@@ -421,49 +415,76 @@ http://ebsonair.ebs.co.kr:1935/ebsufamilypc/familypc1m/playlist.m3u8
 #EXTINF:-1 channelId="293" tvg-logo="" group-title="Internacional - Coreano",EBSi
 http://ebsonair.ebs.co.kr:1935/plus1familypc/familypc1m/playlist.m3u8
 
-#EXTINF:-1 channelId="293" tvg-logo="" group-title="Internacional - Coreano",KBS World
+#EXTINF:-1 channelId="294" tvg-logo="" group-title="Internacional - Coreano",KBS World
 http://la-akamaihd.mooo.com:30001/kbsworld/
 
-#EXTINF:-1 channelId="301" tvg-logo="" group-title="Internacional - Grego",Crete TV
+#EXTINF:-1 channelId="295" tvg-id="" tvg-name="" tvg-language="Coreano" tvg-logo="" group-title="Internacional - Coreano",Arte HD
+http://etomatomobile.hscdn.com/artemobile/livestream/playlist.m3u8
+
+#EXTINF:-1 channelId="296" tvg-id="" tvg-name="" tvg-language="Coreano" tvg-logo="https://i.imgur.com/UvRoc22.png" group-title="Internacional - Coreano",Edaily TV
+http://edaily.flive.skcdn.com:1935/high/livestream/playlist.m3u8
+
+#EXTINF:-1 channelId="297" tvg-id="" tvg-name="" tvg-language="Coreano" tvg-logo="https://i.imgur.com/f1tz5fg.png" group-title="Internacional - Coreano",Gugbang TV
+http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+
+#EXTINF:-1 channelId="298" -id="" tvg-name="" tvg-language="Coreano" tvg-logo="https://i.imgur.com/pANf9i7.png" group-title="Internacional - Coreano",KTV
+rtmp://218.38.152.31:1935/klive/klive.stream
+
+#EXTINF:-1 channelId="299" tvg-id="" tvg-name="" tvg-language="Coreano" tvg-logo="https://i.imgur.com/AmalRpB.png" group-title="Internacional - Coreano",Maeil Business Newspaper
+rtmp://origin.flive.skcdn.com/mbn-auth1/1000k
+
+#EXTINF:-1 channelId="299" tvg-id="" tvg-name="" tvg-language="Coreano" tvg-logo="https://i.imgur.com/QMDDHd1.gif" group-title="Internacional - Coreano",MTN
+rtmp://mmoney.flive.skcdn.com/mmoneymobile/money3.stream
+
+#EXTINF:-1 channelId="299" tvg-id="" tvg-name="" tvg-language="Coreano" tvg-logo="https://i.imgur.com/loWf3B5.jpg" group-title="Internacional - Coreano",NBS Korea Agricultural Broadcasting
+https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+
+#EXTINF:-1 channelId="299" tvg-id="" tvg-name="" tvg-language="Coreano" tvg-logo="https://i.imgur.com/C1zvP3w.png" group-title="Internacional - Coreano",OBS
+http://live.obs.co.kr:1935/live/obs/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 channelId="305" tvg-id="" tvg-name="" tvg-language="Coreano" tvg-logo="https://i.imgur.com/XEsWtqp.jpg" group-title="Internacional - Coreano",Korean Central Television
+https://tv.nknews.org/tvhls/stream.m3u8
+
+#EXTINF:-1 channelId="306" tvg-logo="" group-title="Internacional - Grego",Crete TV
 http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8
 
-#EXTINF:-1 channelId="302" tvg-logo="" group-title="Internacional - Grego",Ionian TV
+#EXTINF:-1 channelId="307" tvg-logo="" group-title="Internacional - Grego",Ionian TV
 http://stream.ioniantv.gr:8081/ionian/live/playlist.m3u8
 
-#EXTINF:-1 channelId="303" tvg-logo="" group-title="Internacional - Grego",Kontra
+#EXTINF:-1 channelId="308" tvg-logo="" group-title="Internacional - Grego",Kontra
 http://flashcloud.mediacdn.com/live/kontratv/.m3u8
 
-#EXTINF:-1 channelId="304" tvg-logo="" group-title="Internacional - Grego",Syros
+#EXTINF:-1 channelId="309" tvg-logo="" group-title="Internacional - Grego",Syros
 http://176.9.123.140:1935/msg116s/msg116s/playlist.m3u8
 
-#EXTINF:-1 channelId="305" tvg-logo="" group-title="Internacional - Grego",Sigma
+#EXTINF:-1 channelId="310" tvg-logo="" group-title="Internacional - Grego",Sigma
 http://81.21.47.74/hls/live.m3u8
 
-#EXTINF:-1 channelId="310" tvg-logo="" group-title="Internacional - Espanhol",Russia Today Español
+#EXTINF:-1 channelId="311" tvg-logo="" group-title="Internacional - Espanhol",Russia Today Español
 https://rt-esp.secure.footprint.net/1102.m3u8
 
-#EXTINF:-1 channelId="311" tvg-logo="" group-title="Internacional - Espanhol",Deutsche Welle Español
+#EXTINF:-1 channelId="312" tvg-logo="" group-title="Internacional - Espanhol",Deutsche Welle Español
 https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
 
-#EXTINF:-1 channelId="312" tvg-logo="" group-title="Internacional - Espanhol",France 24 Español
+#EXTINF:-1 channelId="313" tvg-logo="" group-title="Internacional - Espanhol",France 24 Español
 http://f24hls-i.akamaihd.net/hls/live/520844/F24_ES_LO_HLS/master.m3u8
 
-#EXTINF:-1 channelId="313" tvg-logo="" group-title="Internacional - Espanhol",Telesur
+#EXTINF:-1 channelId="314" tvg-logo="" group-title="Internacional - Espanhol",Telesur
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
 
-#EXTINF:-1 channelId="314" tvg-logo="" group-title="Internacional - Espanhol",HispanTV Iran
+#EXTINF:-1 channelId="315" tvg-logo="" group-title="Internacional - Espanhol",HispanTV Iran
 https://5a61de8ed719d.streamlock.net/live/smil:live.smil/chunklist_w2093826190_b644100_slen.m3u8
 
-#EXTINF:-1 channelId="315" tvg-logo="" group-title="Internacional - Espanhol",Telemax Argentina
+#EXTINF:-1 channelId="316" tvg-logo="" group-title="Internacional - Espanhol",Telemax Argentina
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 
-#EXTINF:-1 channelId="316" tvg-logo="" group-title="Internacional - Espanhol",Canal 2 Jujuy Argentina
+#EXTINF:-1 channelId="317" tvg-logo="" group-title="Internacional - Espanhol",Canal 2 Jujuy Argentina
 http://api.new.livestream.com:80/accounts/679322/events/3782013/live.m3u8
 
-#EXTINF:-1 channelId="317" tvg-logo="" group-title="Internacional - Espanhol",T5 HD Argentina
+#EXTINF:-1 channelId="318" tvg-logo="" group-title="Internacional - Espanhol",T5 HD Argentina
 http://api.new.livestream.com:80/accounts/20819504/events/8664197/live.m3u8
 
-#EXTINF:-1 channelId="317" tvg-logo="" group-title="Internacional - Espanhol",UniRio Argentina
+#EXTINF:-1 channelId="319" tvg-logo="" group-title="Internacional - Espanhol",UniRio Argentina
 https://59db7e671a1ad.streamlock.net/uniriotv/uniriotv/chunklist_w1505381440.m3u8
 
 #EXTINF:-1 channelId="320" tvg-logo="" group-title="Internacional - Espanhol",Multivision Bolivia
@@ -553,4 +574,35 @@ https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/playl
 
 #EXTINF:-1 channelId="611" tvg-id="" tvg-name="" tvg-language="Inglês" tvg-logo="https://i.imgur.com/2IOP6LI.jpg" group-title="Internacional - Inglês",The Wall Street Journal
 http://wsjlivehls-lh.akamaihd.net/i/events1_1@174990/master.m3u8
+
+#EXTINF:-1 channelId="776" tvg-logo="" group-title="Internacional - Italiano",Radio Italia TV
+http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/master.m3u8
+
+#EXTINF:-1 channelId="778" tvg-logo="" group-title="Internacional - Italiano",Canale 7
+http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
+
+#EXTINF:-1 channelId="780" tvg-logo="" group-title="Internacional - Italiano",Rai News
+https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
+
+#EXTINF:-1 channelId="781" tvg-logo="" group-title="Internacional - Italiano",Rai Yoyo
+http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8
+
+#EXTINF:-1 channelId="782" tvg-logo="" group-title="Internacional - Italiano",Rai Premium
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
+
+#EXTINF:-1 channelId="783" tvg-logo="" group-title="Internacional - Italiano",Rai 3
+http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
+
+#EXTINF:-1 channelId="784" tvg-logo="" group-title="Internacional - Italiano",Rai 4
+https://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/master.m3u8
+
+#EXTINF:-1 channelId="785" tvg-logo="" group-title="Internacional - Italiano",Rai 5
+http://b2everyrai-lh.akamaihd.net:80/i/rai5_1@182695/master.m3u8
+
+#EXTINF:-1 channelId="786" tvg-logo="" group-title="Internacional - Italiano",Rai Movie
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+
+#EXTINF:-1 channelId="787" tvg-logo="" group-title="Internacional - Italiano",Rai Gulp
+http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8
+
 
