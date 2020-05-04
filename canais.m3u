@@ -268,6 +268,9 @@ https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
 #EXTINF:-1 channelId="235" tvg-logo="" group-title="Internacional - Inglês",NHK World
 https://b-nhkwlive-xjp.akamaized.net/hls/live/2003458-b/nhkwlive-xjp/index.m3u8
 
+#EXTINF:-1 channelId="235" tvg-logo="" group-title="Internacional - Inglês",NHK World CC
+https://raw.githubusercontent.com/kimbrasil/kimbrasil/master/nhkworld-cc.m3u8
+
 #EXTINF:-1 channelId="236" tvg-logo="" group-title="Internacional - Inglês",Newsy
 https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8
 
