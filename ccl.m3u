@@ -16,7 +16,7 @@ https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverychannel.smil/mast
 #EXTINF:-1 tvg-id="" tvg-name="Band News" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/W5xuts0.png" group-title="News",Band News
 https://evpp.mm.uol.com.br/geob_band/bandnewstv/chunklist_w5392006.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-language="Portuguese" tvg-logo="https://logodownload.org/wp-content/uploads/2019/07/cnn-brasil-logo-0.png" group-title="News",CNN Brasil
-https://streaming.cnnbrasil.com.br:443/cnndigital_mainOutput2.m3u8
+https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Record_News_%28color%29.svg/376px-Record_News_%28color%29.svg.png" group-title="",Record News
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/ff/Logotipo_TV_Guar%C3%A1.png" group-title="News",TV Guará
