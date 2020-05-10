@@ -240,7 +240,7 @@ http://f24hls-i.akamaihd.net/hls/live/520844/F24_ES_LO_HLS/master.m3u8
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
 
 #EXTINF:-1 channelId="315" tvg-logo="" group-title="Internacional - Espanhol",HispanTV Iran
-https://5a61de8ed719d.streamlock.net/live/smil:live.smil/chunklist_w2093826190_b644100_slen.m3u8
+http://5a61de8ed719d.streamlock.net/live/smil:live.smil/chunklist_w2093826190_b644100_slen.m3u8
 
 #EXTINF:-1 channelId="316" tvg-logo="" group-title="Internacional - Espanhol",Telemax Argentina
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
