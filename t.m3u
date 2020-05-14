@@ -204,7 +204,7 @@ https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/480px-Fox_News_Channel_logo.svg.png" group-title="Notícias Int",FOX News
 https://fncgohls-i.akamaihd.net/hls/live/263399/FNCGOHLSv2/master.m3u8
 #EXTINF:-1 channelId="268" tvg-id="" tvg-name="" tvg-language="Inglês" tvg-logo="https://i.imgur.com/6XPNpid.png" group-title="Esportes Int",FOX Sports HD
-http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/480px-FRANCE_24_logo.svg.png" group-title="Notícias Int",France 24 Inglês
 http://f24hls-i.akamaihd.net/hls/live/221193-b/F24_EN_LO_HLS/master_900.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo"https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/480px-FRANCE_24_logo.svg.png" group-title="Internacional",France 24 Espanhol
