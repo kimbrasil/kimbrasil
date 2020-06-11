@@ -59,7 +59,7 @@ https://cdn.jmvstream.com/w/LVW-8202/LVW8202_WXoGmOx1th/playlist.m3u8
 https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/FZwHq8k.png" group-title="Notícias",CBN São Paulo
 https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://img.radios.com.br/radio/xl/radio13488_1558098324.jpg" group-title="Notícias",CBN São Paulo
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://img.radios.com.br/radio/xl/radio13488_1558098324.jpg" group-title="Notícias",Rádio Jornal
 https://evpp.mm.uol.com.br/ne10/radiojornal-recife-avra-video-web.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/BMwYjkX.png" group-title="Música",MTV Brasil
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/mtv.smil/master.m3u8
@@ -125,6 +125,8 @@ https://cdn.jmvstream.com/w/AVJ-9086/playlist/playlist.m3u8
 https://aovivo.equipea.com.br:5443/WebRTCAppEE/streams/713829795440060188004130.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://publique.com/wp-content/uploads/2019/08/Rebrand_Logo_Canal_Rural.png" group-title="Agro",Canal Rural
 rtmp://www.canalruralplay.com.br:1935/live/aovivo
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/Er4gTOd.png" group-title="Agro",Lance Rural
+rtmp://www.canalruralplay.com.br:1935/live/gadogeral
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://www.tvarroba.com.br/imagens/logo.png" group-title="Agro",TV Arroba
 https://aovivo.equipea.com.br:5443/WebRTCAppEE/streams/022557420776799177554743.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/QbdReYf.png" group-title="Educativa",FURG TV
