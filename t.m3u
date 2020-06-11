@@ -127,6 +127,8 @@ https://aovivo.equipea.com.br:5443/WebRTCAppEE/streams/713829795440060188004130.
 rtmp://www.canalruralplay.com.br:1935/live/aovivo
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/Er4gTOd.png" group-title="Agro",Lance Rural
 rtmp://www.canalruralplay.com.br:1935/live/gadogeral
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese"  tvg-logo="https://uploaddeimagens.com.br/images/002/218/333/full/TV_Terra_Viva.png?1564165720" group-title="Agro",Terra Viva
+https://evpp.mm.uol.com.br/band_live/terraviva/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://www.tvarroba.com.br/imagens/logo.png" group-title="Agro",TV Arroba
 https://aovivo.equipea.com.br:5443/WebRTCAppEE/streams/022557420776799177554743.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/QbdReYf.png" group-title="Educativa",FURG TV
