@@ -35,6 +35,8 @@ http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
 https://5a1c76baf08c0.streamlock.net/z343-live/z343/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-0-1536x1536.png" group-title="Aberta",Band SP
 http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-0-1536x1536.png" group-title="Aberta",Band RJ
+https://live-orig-oiplay.online.go.oi.com.br/live-cdn/bandeirantes.smil/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/765Cn9I.png" group-title="Aberta",TV Cultura
 https://cdn.jmvstream.com/w/LVW-8403/ngrp:LVW8403_bIBvekk9QA_all/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/aU56c0K.png" group-title="Aberta",TV Escola
@@ -57,12 +59,28 @@ https://cdn.jmvstream.com/w/LVW-8202/LVW8202_WXoGmOx1th/playlist.m3u8
 https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/FZwHq8k.png" group-title="Notícias",CBN São Paulo
 https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://img.radios.com.br/radio/xl/radio13488_1558098324.jpg" group-title="Notícias",CBN São Paulo
+https://evpp.mm.uol.com.br/ne10/radiojornal-recife-avra-video-web.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/BMwYjkX.png" group-title="Música",MTV Brasil
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/mtv.smil/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://br.trace.company/wp-content/uploads//2017/03/logo-africa-1.png" group-title="Música",Trace Africa
+https://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Creole" tvg-logo="https://br.trace.company/wp-content/uploads//2018/04/TRACE-AYITI-LOGO-png.png" group-title="Música",Trace Ayiti
+https://d2ktlibtvvj8vp.cloudfront.net/trace_ayiti/6/prog_index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://trace.company/wp-content/uploads/2019/10/TRACE-BRAZUCA-logo-rgb.png" group-title="Música",Trace Brazuca
 https://d2ktlibtvvj8vp.cloudfront.net/trace_brazuka/6/prog_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Ingala" tvg-logo="https://br.trace.company/wp-content/uploads//2017/08/TRACE-logo-kitoko-01-1.png" group-title="Música",Trace Kitoko
+https://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://br.trace.company/wp-content/uploads//2018/09/TRACE-LATINA-LOGO-WEB-1.png" group-title="Música",Trace Latina
+https://d2ktlibtvvj8vp.cloudfront.net/trace_latina/6/prog_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Swahili" tvg-logo="https://br.trace.company/wp-content/uploads//2017/04/logo_mziki1.png" group-title="Música",Trace Mziki
+https://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/6/prog_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://br.trace.company/wp-content/uploads//2017/03/logo-naija-1.png" group-title="Música",Trace Naija
+https://d2ktlibtvvj8vp.cloudfront.net/trace_naija/6/prog_index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://br.trace.company/wp-content/uploads//2017/03/logo-toca.png" group-title="Música",Trace Toca
-http://d2ktlibtvvj8vp.cloudfront.net/trace_toca/6/prog_index.m3u8
+https://d2ktlibtvvj8vp.cloudfront.net/trace_toca/6/prog_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://br.trace.company/wp-content/uploads//2017/03/logo-tropical.png" group-title="Música",Trace Tropical
+https://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/6XPNpid.png" group-title="Esportes",FOX Sports
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/foxsports.smil/master.m3u8
 #EXTINF:-1 tvg-id="bandsports.br" tvg-name="Band Sports" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/TG25xuW.png" group-title="Esportes",Band Sports
@@ -105,6 +123,8 @@ https://aovivo.equipea.com.br:5443/WebRTCAppEE/streams/929572598225250519566453.
 https://cdn.jmvstream.com/w/AVJ-9086/playlist/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Logo_Canal_do_Boi_-_PNG.png/301px-Logo_Canal_do_Boi_-_PNG.png" group-title="Agro",Canal do Boi
 https://aovivo.equipea.com.br:5443/WebRTCAppEE/streams/713829795440060188004130.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://publique.com/wp-content/uploads/2019/08/Rebrand_Logo_Canal_Rural.png" group-title="Agro",Canal Rural
+rtmp://www.canalruralplay.com.br:1935/live/aovivo
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://www.tvarroba.com.br/imagens/logo.png" group-title="Agro",TV Arroba
 https://aovivo.equipea.com.br:5443/WebRTCAppEE/streams/022557420776799177554743.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/QbdReYf.png" group-title="Educativa",FURG TV
