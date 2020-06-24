@@ -37,6 +37,8 @@ https://5a1c76baf08c0.streamlock.net/z343-live/z343/playlist.m3u8
 http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-0-1536x1536.png" group-title="Aberta",Band RJ
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/bandeirantes.smil/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/OLYyZDD.png" group-title="General",Rede Minas
+https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/765Cn9I.png" group-title="Aberta",TV Cultura
 https://cdn.jmvstream.com/w/LVW-8403/ngrp:LVW8403_bIBvekk9QA_all/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/aU56c0K.png" group-title="Aberta",TV Escola
