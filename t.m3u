@@ -49,24 +49,6 @@ https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
 https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://img.radios.com.br/radio/xl/radio13488_1558098324.jpg" group-title="Notícias",Rádio Jornal
 https://evpp.mm.uol.com.br/ne10/radiojornal-recife-avra-video-web.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://br.trace.company/wp-content/uploads//2017/03/logo-africa-1.png" group-title="Música",Trace Africa
-https://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Creole" tvg-logo="https://br.trace.company/wp-content/uploads//2018/04/TRACE-AYITI-LOGO-png.png" group-title="Música",Trace Ayiti
-https://d2ktlibtvvj8vp.cloudfront.net/trace_ayiti/6/prog_index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://trace.company/wp-content/uploads/2019/10/TRACE-BRAZUCA-logo-rgb.png" group-title="Música",Trace Brazuca
-https://d2ktlibtvvj8vp.cloudfront.net/trace_brazuka/6/prog_index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Ingala" tvg-logo="https://br.trace.company/wp-content/uploads//2017/08/TRACE-logo-kitoko-01-1.png" group-title="Música",Trace Kitoko
-https://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://br.trace.company/wp-content/uploads//2018/09/TRACE-LATINA-LOGO-WEB-1.png" group-title="Música",Trace Latina
-https://d2ktlibtvvj8vp.cloudfront.net/trace_latina/6/prog_index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Swahili" tvg-logo="https://br.trace.company/wp-content/uploads//2017/04/logo_mziki1.png" group-title="Música",Trace Mziki
-https://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/6/prog_index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://br.trace.company/wp-content/uploads//2017/03/logo-naija-1.png" group-title="Música",Trace Naija
-https://d2ktlibtvvj8vp.cloudfront.net/trace_naija/6/prog_index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://br.trace.company/wp-content/uploads//2017/03/logo-toca.png" group-title="Música",Trace Toca
-https://d2ktlibtvvj8vp.cloudfront.net/trace_toca/6/prog_index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://br.trace.company/wp-content/uploads//2017/03/logo-tropical.png" group-title="Música",Trace Tropical
-https://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8
 #EXTINF:-1 tvg-id="bandsports.br" tvg-name="Band Sports" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/TG25xuW.png" group-title="Esportes",Band Sports
 https://evpp.mm.uol.com.br/geob_band/bandsports/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/QusWJuw.png" group-title="Esportes",ESPN
