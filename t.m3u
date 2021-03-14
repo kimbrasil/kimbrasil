@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://1.bp.blogspot.com/-NxSgK3rd3cE/X865v5gZ4rI/AAAAAAAAz9o/7JmgLPbjv_gvUxkoU1sAqWei28QkY2RfgCLcBGAsYHQ/s16000/loading_canal_TV_logo_banner.jpg" group-title="Infantil",Loading
+https://verizon.br.cdn.booyah.live/hls/1000021/master_34850987.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://raw.githubusercontent.com/kimbrasil/kimbrasil/master/a/playkids.png" group-title="Infantil",Play Kids
 https://playplusdlab-lh.akamaihd.net/i/pp_pkids@377825/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://raw.githubusercontent.com/kimbrasil/kimbrasil/master/a/disneych.png" group-title="Infantil",Disney Channel
@@ -16,7 +18,7 @@ http://ug1upc1hgb.singularcdn.net.br/NICK_JR_BR_HD/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="http://i.imgur.com/YDqoOVf.png" group-title="Variedades",Multishow
 http://live.video.globo.com/h/1402196702233012345678915746222339876543210pJEKZjeaTYyxXDM3Kaz8QQ/k/app/a/A/u/anyone/d/s/hls-msw24ha/hls-msw24ha_4783/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="http://i.imgur.com/yScrn6s.png" group-title="Variedades",Paramount
-http://origin-02.nxplay.com.br/PCBR_HD_NXPLAY/video.m3u8
+https://nxplay-srv1.nxplay.com.br/PCBR_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="http://i.imgur.com/ZekUX7A.png" group-title="Variedades",Comedy Central
 http://ug1upc1hgb.singularcdn.net.br/CCLB_HD/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Nova_Logo_TBS_Brasil.png" group-title="Variedades",TBS
@@ -24,7 +26,7 @@ https://origin-02.nxplay.com.br/TBS/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="http://i.imgur.com/U6Rgjqs.png" group-title="Variedades",MTV
 http://ug1upc1hgb.singularcdn.net.br/MTV_BR_HD/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Band News" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/W5xuts0.png" group-title="Notícias",Band News
-http://evpp.mm.uol.com.br:1935/geob_band/bandnewstv/chunklist.m3u8
+https://origin-02.nxplay.com.br/BAND_NEWS_NXPLAY/tracks-v1a1a2/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-language="Portuguese" tvg-logo="https://logodownload.org/wp-content/uploads/2019/07/cnn-brasil-logo-0.png" group-title="Notícias",CNN Brasil
 https://origin-02.nxplay.com.br/CNN_Brazil_HD_NX/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Record_News_%28color%29.svg/376px-Record_News_%28color%29.svg.png" group-title="Notícias",Record News
@@ -40,11 +42,13 @@ http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/OLYyZDD.png" group-title="Aberta",Rede Minas
 https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/765Cn9I.png" group-title="Aberta",TV Cultura
-https://cdn.jmvstream.com/w/LVW-8403/ngrp:LVW8403_bIBvekk9QA_all/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/aU56c0K.png" group-title="Aberta",TV Escola
-http://origin-02.nxplay.com.br/TV_ESCOLA_NX/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/Uw5OVrp.png" group-title="Aberta",TV INES
-https://video-rvd-rj-1.rnp.br/live/ocp(t(FkVsd_N-3FM)r(fVR9ug)a(yVABvA)p(d(2xc)k(q8E)m(wnuKOizBMoRUrJyZgnQJEQ)n(a(fnBTWg)s(bqo)'a(622RgA)s(zH8)))s(s(B8E)b(PhYuJ5ogUIz-yRcn5MXYV1tO1lzbiah1wF9FYHS02WIKwt8R9pMyJzgtNdXCIhSUr_N5xA4AIR2Gan3XIg)'s(3gU)b(nhArpd7X-aa2rXvNp7HKnqygeJlab4HBns1aBJeoBiwajGqllB03Lv8-BESRWfTO60Ueoi2TzGA3YYIRwevSaPvhQ6_6zSY8BnsUSa-y)'s(93Q)b(-9L0ac5B))m(0))/index.m3u8
+https://origin-02.nxplay.com.br/TV_CULTURA_HD_PFZ/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/aU56c0K.png" group-title="Educativa",TV Escola
+http://origin-02.nxplay.com.br/TV_ESCOLA_NX/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/242px-Canal_Futura.png" group-title="Educativa",Futura
+http://origin-02.nxplay.com.br/FUTURA_NX/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_multicultura-educac-o_m.png" group-title="Educativa",Multicultura
+http://origin-02.nxplay.com.br/MULTICULTURA_PFZ/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/IceKUjf.png" group-title="Educativa",Sesc TV
 https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/e48d0a10fc266bc1121b9e0e2af7ce9b/video/0c5c065d-aef3-4c15-8480-671268f9bd85_index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/YCR386w.png" group-title="Educativa",CATVE
@@ -53,8 +57,8 @@ http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8
 http://wowza4.catve.com.br:1935/mastertv/livestream/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/TVE_Bahia_logo.svg/800px-TVE_Bahia_logo.svg.png" group-title="Educativa",TVE Bahia
 http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/55/Logotipo_da_TV_O_Povo.png" group-title="Educativa",TV O Povo
-http://srv3.zoeweb.tv:1935/z01-live/stream/livestream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/28/Logotipo_do_Canal_FDR.png" group-title="Educativa",Canal FDR
+https://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="Notícias",98 Live (Belo Horizonte)
 https://cdn.jmvstream.com/w/LVW-8202/LVW8202_WXoGmOx1th/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/FZwHq8k.png" group-title="Notícias",CBN Rio
