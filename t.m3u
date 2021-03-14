@@ -7,14 +7,32 @@ http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/master.m3u8
 http://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://raw.githubusercontent.com/kimbrasil/kimbrasil/master/a/disneyxd.png" group-title="Infantil",Disney XD
 http://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://www.zoomookids.com.br/wp-content/uploads/2020/02/ZooMoo-Kids-2020.png" group-title="Infantil",ZooMoo Kids
+https://origin-02.nxplay.com.br/ZOOMOO_HD_NX/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="http://i.imgur.com/ZjLSLiY.png" group-title="Infantil",Nick
+http://ug1upc1hgb.singularcdn.net.br/NICK_BR_HD/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/6vVmJJf.png" group-title="Infantil",Nick Jr
+http://ug1upc1hgb.singularcdn.net.br/NICK_JR_BR_HD/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="http://i.imgur.com/YDqoOVf.png" group-title="Variedades",Multishow
+http://live.video.globo.com/h/1402196702233012345678915746222339876543210pJEKZjeaTYyxXDM3Kaz8QQ/k/app/a/A/u/anyone/d/s/hls-msw24ha/hls-msw24ha_4783/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="http://i.imgur.com/yScrn6s.png" group-title="Variedades",Paramount
+http://origin-02.nxplay.com.br/PCBR_HD_NXPLAY/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="http://i.imgur.com/ZekUX7A.png" group-title="Variedades",Comedy Central
+http://ug1upc1hgb.singularcdn.net.br/CCLB_HD/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Nova_Logo_TBS_Brasil.png" group-title="Variedades",TBS
+https://origin-02.nxplay.com.br/TBS/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="http://i.imgur.com/U6Rgjqs.png" group-title="Variedades",MTV
+http://ug1upc1hgb.singularcdn.net.br/MTV_BR_HD/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Band News" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/W5xuts0.png" group-title="Notícias",Band News
 http://evpp.mm.uol.com.br:1935/geob_band/bandnewstv/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-language="Portuguese" tvg-logo="https://logodownload.org/wp-content/uploads/2019/07/cnn-brasil-logo-0.png" group-title="Notícias",CNN Brasil
-https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
+https://origin-02.nxplay.com.br/CNN_Brazil_HD_NX/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Record_News_%28color%29.svg/376px-Record_News_%28color%29.svg.png" group-title="Notícias",Record News
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/ff/Logotipo_TV_Guar%C3%A1.png" group-title="Notícias",TV Guará
 https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/22/Logotipo_da_Rede_Globo.png/200px-Logotipo_da_Rede_Globo.png" group-title="Aberta",Globo Rio
+https://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://assets.izap.com.br/recordminas.tv.br/uploads/tema/plusfiles/logo_record_200x171_branco.png" group-title="Aberta",Record Minas
 https://playplusbh-lh.akamaihd.net/i/pp_bh@377862/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-0-1536x1536.png" group-title="Aberta",Band
@@ -24,7 +42,7 @@ https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/765Cn9I.png" group-title="Aberta",TV Cultura
 https://cdn.jmvstream.com/w/LVW-8403/ngrp:LVW8403_bIBvekk9QA_all/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/aU56c0K.png" group-title="Aberta",TV Escola
-https://video-rvd-rj-1.rnp.br/live/ocp(t(FkVsb5rCGvM)r(fVR9ug)a(yVABvA)p(d(2xc)k(q8E)m(tobqa-iBdQxF2lbCtBwGIg)n(a(X7_B7w)s(IDI)'a(iZ2OFg)s(-w4)))s(s(tv8)b(a0b_jdY86xGHHvvMVu_WJ0-uoKIQ5s4qyRpAjaNe8s6w81Ob1Xd02hI4W1u9LbmVo45StcnDlJI01AqzYQ)'s(2a8)b(ts3OuGBhV7qSNLyNSfTJq8nWJ3NQIfEzFRfqTYaHbdpacpP6kOhD2AqfrX7JtsJ2twVf8zEp-Pne2zydi4GV-AF6KmCfAQ4ndbAx2da6)'s(N2Y)b(VKNb0Mnb))m(0))/index.m3u8
+http://origin-02.nxplay.com.br/TV_ESCOLA_NX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/Uw5OVrp.png" group-title="Aberta",TV INES
 https://video-rvd-rj-1.rnp.br/live/ocp(t(FkVsd_N-3FM)r(fVR9ug)a(yVABvA)p(d(2xc)k(q8E)m(wnuKOizBMoRUrJyZgnQJEQ)n(a(fnBTWg)s(bqo)'a(622RgA)s(zH8)))s(s(B8E)b(PhYuJ5ogUIz-yRcn5MXYV1tO1lzbiah1wF9FYHS02WIKwt8R9pMyJzgtNdXCIhSUr_N5xA4AIR2Gan3XIg)'s(3gU)b(nhArpd7X-aa2rXvNp7HKnqygeJlab4HBns1aBJeoBiwajGqllB03Lv8-BESRWfTO60Ueoi2TzGA3YYIRwevSaPvhQ6_6zSY8BnsUSa-y)'s(93Q)b(-9L0ac5B))m(0))/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/IceKUjf.png" group-title="Educativa",Sesc TV
@@ -100,7 +118,7 @@ https://srv-rs1.sisdera.com/hls/1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/ejp65zr.png" group-title="Entretenimento",TV BNO
 http://tv02.logicahost.com.br:1935/bonner/bonner/live.m3u8
 #EXTINF:-1 tvg-id="tvbrasil.br" tvg-name="TV Brasil" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/Y0lCaVF.png" group-title="Educativa",TV Brasil
-https://22722d.ha.azioncdn.net/hls/STsEBCLIVE_720/index.m3u8
+http://origin-02.nxplay.com.br/TV_BRASIL_NX/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/Yayrlnl.png" group-title="Regional",TV Comunitária do Rio de Janeiro
 https://59f1cbe63db89.streamlock.net:1443/tvcrio/_definst_/tvcrio/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/XLD3GbZ.png" group-title="Educativa",TV Educativa de Porto Alegre
