@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://1.bp.blogspot.com/-NxSgK3rd3cE/X865v5gZ4rI/AAAAAAAAz9o/7JmgLPbjv_gvUxkoU1sAqWei28QkY2RfgCLcBGAsYHQ/s16000/loading_canal_TV_logo_banner.jpg" group-title="Infantil",Loading
-https://origin-02.nxplay.com.br/IDEAL_TV_HD/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://raw.githubusercontent.com/kimbrasil/kimbrasil/master/a/playkids.png" group-title="Infantil",Play Kids
 https://playplusdlab-lh.akamaihd.net/i/pp_pkids@377825/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://raw.githubusercontent.com/kimbrasil/kimbrasil/master/a/disneych.png" group-title="Infantil",Disney Channel
@@ -25,6 +23,10 @@ http://ug1upc1hgb.singularcdn.net.br/CCLB_HD/video.m3u8
 https://origin-02.nxplay.com.br/TBS/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="http://i.imgur.com/U6Rgjqs.png" group-title="Variedades",MTV
 http://ug1upc1hgb.singularcdn.net.br/MTV_BR_HD/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/TxdOyKS.png" group-title="Variedades",Yeeaah!
+http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://1.bp.blogspot.com/-NxSgK3rd3cE/X865v5gZ4rI/AAAAAAAAz9o/7JmgLPbjv_gvUxkoU1sAqWei28QkY2RfgCLcBGAsYHQ/s16000/loading_canal_TV_logo_banner.jpg" group-title="Variedades",Loading
+https://origin-02.nxplay.com.br/IDEAL_TV_HD/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Band News" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/W5xuts0.png" group-title="Notícias",Band News
 https://origin-02.nxplay.com.br/BAND_NEWS_NXPLAY/tracks-v1a1a2/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-language="Portuguese" tvg-logo="https://logodownload.org/wp-content/uploads/2019/07/cnn-brasil-logo-0.png" group-title="Notícias",CNN Brasil
@@ -43,6 +45,8 @@ http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
 https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/765Cn9I.png" group-title="Aberta",TV Cultura
 https://origin-02.nxplay.com.br/TV_CULTURA_HD_PFZ/index.m3u8
+#EXTINF:-1 tvg-id="tvbrasil.br" tvg-name="TV Brasil" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/Y0lCaVF.png" group-title="Aberta",TV Brasil
+http://origin-02.nxplay.com.br/TV_BRASIL_NX/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/aU56c0K.png" group-title="Educativa",TV Escola
 http://origin-02.nxplay.com.br/TV_ESCOLA_NX/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/242px-Canal_Futura.png" group-title="Educativa",Futura
@@ -77,10 +81,14 @@ https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/master.m3u8
 http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://tntsports.com.br/__export/1610630798389/sites/esporteinterativo/arte/apps/precomposed_20210114.png_285119621.png" group-title="Esportes",TNT Sports
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://tntsports.com.br/__export/1610630798389/sites/esporteinterativo/arte/apps/precomposed_20210114.png_285119621.png" group-title="Esportes",Originais TNT Sports
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniUaWgpy5hzjH7BSCcbkOHRRZBFwDRHZbhKUfQ3=s900-c-k-c0x00ffffff-no-rj" group-title="Esportes",De Placa TNT Sports
+https://k0uzvptvud.akamaized.net/live/canal_02/playlist.m3u8?sjwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJrMHV6dnB0dnVkLmFrYW1haXplZC5uZXQiLCJ1cmlfc3ViIjoiL2xpdmUvY2FuYWxfMDIiLCJqdGkiOiIzZDE4NjdlNy02YzdiLTRhZDYtYWE5Ni0xMjk1MTQ2ZmRkYmYiLCJpYXQiOjE2MTU5OTE1ODksIm5iZiI6MTYxNTk5MTUyOSwiZXhwIjoxNjE2MDM0Nzg5LCJkaW5hbWljbyI6MSwidXNlcl9pZCI6IjkyMGM4Y2UyLTllNmMtNDNjYy04YzdiLWIzM2QwNjI3YWU2ZiJ9.ttrZml3r6ZW1OfvXIEA4uDqTrsVNZAsoprikyD5h8TU
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://play-lh.googleusercontent.com/CUHamqYKEjorHawSLd6Z_T1L_tuyTZYYgh2ppOQieIIXf7BhgKhWCkFEN8FyJJbXmtE=s180-rw" group-title="Esportes",Estádio TNT Sports
+https://live.cdn.br.estadio.com/live/canal_08/playlist.m3u8?sjwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJsaXZlLmNkbi5ici5lc3RhZGlvLmNvbSIsInVyaV9zdWIiOiIvbGl2ZS9jYW5hbF8wOCIsImp0aSI6ImUyODQwNTU4LWM0YzAtNDE4YS1hNmExLTg4NzAxY2MyM2NiMSIsImlhdCI6MTYxNTk5MTAxNiwibmJmIjoxNjE1OTkwOTU2LCJleHAiOjE2MTYwMzQyMTYsImRpbmFtaWNvIjoxLCJ1c2VyX2lkIjoiOTIwYzhjZTItOWU2Yy00M2NjLThjN2ItYjMzZDA2MjdhZTZmIn0.CYSenYC06e6E0w3_wc6Hds-d8WgO7dLPDvlRCtr4PEs
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/wULpnYR.png" group-title="Esportes",ALL Sports
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/TxdOyKS.png" group-title="Aventura",Yeeaah!
-http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://www.canalsaude.fiocruz.br/tools/images/logo-top.jpg" group-title="Saúde",Canal Saúde
 https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/3lxkJxb.png" group-title="Educativa",TV Paraná Turismo
@@ -121,8 +129,6 @@ http://59e4b6c1beddc.streamlock.net:1935/8168/8168/live.m3u8
 https://srv-rs1.sisdera.com/hls/1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/ejp65zr.png" group-title="Entretenimento",TV BNO
 http://tv02.logicahost.com.br:1935/bonner/bonner/live.m3u8
-#EXTINF:-1 tvg-id="tvbrasil.br" tvg-name="TV Brasil" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/Y0lCaVF.png" group-title="Educativa",TV Brasil
-http://origin-02.nxplay.com.br/TV_BRASIL_NX/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/Yayrlnl.png" group-title="Regional",TV Comunitária do Rio de Janeiro
 https://59f1cbe63db89.streamlock.net:1443/tvcrio/_definst_/tvcrio/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/XLD3GbZ.png" group-title="Educativa",TV Educativa de Porto Alegre
