@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://1.bp.blogspot.com/-NxSgK3rd3cE/X865v5gZ4rI/AAAAAAAAz9o/7JmgLPbjv_gvUxkoU1sAqWei28QkY2RfgCLcBGAsYHQ/s16000/loading_canal_TV_logo_banner.jpg" group-title="Infantil",Loading
-https://verizon.br.cdn.booyah.live/hls/1000021/master_34850987.m3u8
+https://origin-02.nxplay.com.br/IDEAL_TV_HD/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://raw.githubusercontent.com/kimbrasil/kimbrasil/master/a/playkids.png" group-title="Infantil",Play Kids
 https://playplusdlab-lh.akamaihd.net/i/pp_pkids@377825/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://raw.githubusercontent.com/kimbrasil/kimbrasil/master/a/disneych.png" group-title="Infantil",Disney Channel
@@ -75,8 +75,8 @@ http://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/master.m3u8
 https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/VS0JbNj.png" group-title="Esportes",ESPN Extra
 http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/k29sgDw.png" group-title="Esportes",Esporte Interativo Plus
-https://nwjyvwzuxj.akamaized.net/playout_01/playlist.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkaW5hbWljbyI6MSwianRpIjoiOTdlNGM5YjItNTlmNy00MDJkLWI1ZDgtMjc2ZjI4NzA5NDRhIiwiZXhwIjoxNjA0ODUzMzMxLCJ1cmlfc3ViIjoiL3BsYXlvdXRfMDEiLCJ1c2VyX2lkIjoiMzhmMTE0YzAtNDNkZi00Y2YzLTgyZjktODlhOTg0Y2NjNzYyIiwiaXNzIjoibndqeXZ3enV4ai5ha2FtYWl6ZWQubmV0IiwiaWF0IjoxNjA0ODEwMTMxLCJuYmYiOjE2MDQ4MTAwNzF9.iidusPDexl7rij-ezz_5P1gY5ZhwsFd2MzmP7FpmQJ8&z=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://tntsports.com.br/__export/1610630798389/sites/esporteinterativo/arte/apps/precomposed_20210114.png_285119621.png" group-title="Esportes",TNT Sports
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/wULpnYR.png" group-title="Esportes",ALL Sports
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/TxdOyKS.png" group-title="Aventura",Yeeaah!
