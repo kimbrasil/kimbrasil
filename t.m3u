@@ -1,40 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://raw.githubusercontent.com/kimbrasil/kimbrasil/master/a/playkids.png" group-title="Infantil",Play Kids
-https://playplusdlab-lh.akamaihd.net/i/pp_pkids@377825/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://raw.githubusercontent.com/kimbrasil/kimbrasil/master/a/disneych.png" group-title="Infantil",Disney Channel
-http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://raw.githubusercontent.com/kimbrasil/kimbrasil/master/a/disneyjr.png" group-title="Infantil",Disney Junior
-http://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://raw.githubusercontent.com/kimbrasil/kimbrasil/master/a/disneyxd.png" group-title="Infantil",Disney XD
-http://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://www.zoomookids.com.br/wp-content/uploads/2020/02/ZooMoo-Kids-2020.png" group-title="Infantil",ZooMoo Kids
-https://origin-02.nxplay.com.br/ZOOMOO_HD_NX/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="http://i.imgur.com/ZjLSLiY.png" group-title="Infantil",Nick
-http://ug1upc1hgb.singularcdn.net.br/NICK_BR_HD/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/6vVmJJf.png" group-title="Infantil",Nick Jr
-http://ug1upc1hgb.singularcdn.net.br/NICK_JR_BR_HD/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="http://i.imgur.com/YDqoOVf.png" group-title="Variedades",Multishow
-http://live.video.globo.com/h/1402196702233012345678915746222339876543210pJEKZjeaTYyxXDM3Kaz8QQ/k/app/a/A/u/anyone/d/s/hls-msw24ha/hls-msw24ha_4783/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="http://i.imgur.com/yScrn6s.png" group-title="Variedades",Paramount
-https://nxplay-srv1.nxplay.com.br/PCBR_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="http://i.imgur.com/ZekUX7A.png" group-title="Variedades",Comedy Central
-http://ug1upc1hgb.singularcdn.net.br/CCLB_HD/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Nova_Logo_TBS_Brasil.png" group-title="Variedades",TBS
-https://origin-02.nxplay.com.br/TBS/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="http://i.imgur.com/U6Rgjqs.png" group-title="Variedades",MTV
-http://ug1upc1hgb.singularcdn.net.br/MTV_BR_HD/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/TxdOyKS.png" group-title="Variedades",Yeeaah!
-http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://1.bp.blogspot.com/-NxSgK3rd3cE/X865v5gZ4rI/AAAAAAAAz9o/7JmgLPbjv_gvUxkoU1sAqWei28QkY2RfgCLcBGAsYHQ/s16000/loading_canal_TV_logo_banner.jpg" group-title="Variedades",Loading
-https://origin-02.nxplay.com.br/IDEAL_TV_HD/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Band News" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/W5xuts0.png" group-title="Notícias",Band News
-https://origin-02.nxplay.com.br/BAND_NEWS_NXPLAY/tracks-v1a1a2/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-language="Portuguese" tvg-logo="https://logodownload.org/wp-content/uploads/2019/07/cnn-brasil-logo-0.png" group-title="Notícias",CNN Brasil
-https://origin-02.nxplay.com.br/CNN_Brazil_HD_NX/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Record_News_%28color%29.svg/376px-Record_News_%28color%29.svg.png" group-title="Notícias",Record News
-https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/ff/Logotipo_TV_Guar%C3%A1.png" group-title="Notícias",TV Guará
-https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/22/Logotipo_da_Rede_Globo.png/200px-Logotipo_da_Rede_Globo.png" group-title="Aberta",Globo Rio
 https://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://assets.izap.com.br/recordminas.tv.br/uploads/tema/plusfiles/logo_record_200x171_branco.png" group-title="Aberta",Record Minas
@@ -49,6 +13,42 @@ https://origin-02.nxplay.com.br/TV_CULTURA_HD_PFZ/index.m3u8
 http://origin-02.nxplay.com.br/TV_BRASIL_NX/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/aU56c0K.png" group-title="Educativa",TV Escola
 http://origin-02.nxplay.com.br/TV_ESCOLA_NX/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="http://i.imgur.com/YDqoOVf.png" group-title="Variedades",Multishow
+http://live.video.globo.com/h/1402196702233012345678915746222339876543210pJEKZjeaTYyxXDM3Kaz8QQ/k/app/a/A/u/anyone/d/s/hls-msw24ha/hls-msw24ha_4783/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="http://i.imgur.com/yScrn6s.png" group-title="Variedades",Paramount
+https://nxplay-srv1.nxplay.com.br/PCBR_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="http://i.imgur.com/ZekUX7A.png" group-title="Variedades",Comedy Central
+http://ug1upc1hgb.singularcdn.net.br/CCLB_HD/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Nova_Logo_TBS_Brasil.png" group-title="Variedades",TBS
+https://origin-02.nxplay.com.br/TBS/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="http://i.imgur.com/U6Rgjqs.png" group-title="Variedades",MTV
+http://ug1upc1hgb.singularcdn.net.br/MTV_BR_HD/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/TxdOyKS.png" group-title="Variedades",Yeeaah!
+http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://1.bp.blogspot.com/-NxSgK3rd3cE/X865v5gZ4rI/AAAAAAAAz9o/7JmgLPbjv_gvUxkoU1sAqWei28QkY2RfgCLcBGAsYHQ/s16000/loading_canal_TV_logo_banner.jpg" group-title="Variedades",Loading
+https://origin-02.nxplay.com.br/IDEAL_TV_HD/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://raw.githubusercontent.com/kimbrasil/kimbrasil/master/a/playkids.png" group-title="Infantil",Play Kids
+https://playplusdlab-lh.akamaihd.net/i/pp_pkids@377825/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://raw.githubusercontent.com/kimbrasil/kimbrasil/master/a/disneych.png" group-title="Infantil",Disney Channel
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://raw.githubusercontent.com/kimbrasil/kimbrasil/master/a/disneyjr.png" group-title="Infantil",Disney Junior
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://raw.githubusercontent.com/kimbrasil/kimbrasil/master/a/disneyxd.png" group-title="Infantil",Disney XD
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://www.zoomookids.com.br/wp-content/uploads/2020/02/ZooMoo-Kids-2020.png" group-title="Infantil",ZooMoo Kids
+https://origin-02.nxplay.com.br/ZOOMOO_HD_NX/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="http://i.imgur.com/ZjLSLiY.png" group-title="Infantil",Nick
+http://ug1upc1hgb.singularcdn.net.br/NICK_BR_HD/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/6vVmJJf.png" group-title="Infantil",Nick Jr
+http://ug1upc1hgb.singularcdn.net.br/NICK_JR_BR_HD/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Band News" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/W5xuts0.png" group-title="Notícias",Band News
+https://origin-02.nxplay.com.br/BAND_NEWS_NXPLAY/tracks-v1a1a2/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-language="Portuguese" tvg-logo="https://logodownload.org/wp-content/uploads/2019/07/cnn-brasil-logo-0.png" group-title="Notícias",CNN Brasil
+https://origin-02.nxplay.com.br/CNN_Brazil_HD_NX/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Record_News_%28color%29.svg/376px-Record_News_%28color%29.svg.png" group-title="Notícias",Record News
+https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/ff/Logotipo_TV_Guar%C3%A1.png" group-title="Notícias",TV Guará
+https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/242px-Canal_Futura.png" group-title="Educativa",Futura
 http://origin-02.nxplay.com.br/FUTURA_NX/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_multicultura-educac-o_m.png" group-title="Educativa",Multicultura
