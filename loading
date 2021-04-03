@@ -19,16 +19,12 @@ http://live.video.globo.com/h/1402196702233012345678915746222339876543210pJEKZje
 https://nxplay-srv1.nxplay.com.br/PCBR_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="http://i.imgur.com/ZekUX7A.png" group-title="Variedades",Comedy Central
 http://ug1upc1hgb.singularcdn.net.br/CCLB_HD/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Nova_Logo_TBS_Brasil.png" group-title="Variedades",TBS
-https://origin-02.nxplay.com.br/TBS/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="http://i.imgur.com/U6Rgjqs.png" group-title="Variedades",MTV
 http://ug1upc1hgb.singularcdn.net.br/MTV_BR_HD/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/TxdOyKS.png" group-title="Variedades",Yeeaah!
 http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://1.bp.blogspot.com/-NxSgK3rd3cE/X865v5gZ4rI/AAAAAAAAz9o/7JmgLPbjv_gvUxkoU1sAqWei28QkY2RfgCLcBGAsYHQ/s16000/loading_canal_TV_logo_banner.jpg" group-title="Variedades",Loading
-https://origin-02.nxplay.com.br/IDEAL_TV_HD/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://images.pluto.tv/channels/5f516730b78b7600079294f5/featuredImage.jpg?w=350&fm=jpg&q=150" group-title="Variedades",FashionBox
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f516730b78b7600079294f5/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=a1a82ec6-3570-4f6f-8e0e-56ba0bc05aa6&clientModelNumber=na&deviceDNT=false&deviceId=a1a82ec6-3570-4f6f-8e0e-56ba0bc05aa6&deviceLat=-19.9029&deviceLon=-43.9572&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=89.0.4389.82&marketingRegion=BR&serverSideAds=true&sessionID=ae1043bd-8734-11eb-b7bb-0242ac110002&sid=ae1043bd-8734-11eb-b7bb-0242ac110002&userId=fdd0bfc07c7e4b82b292fda7bbfe734b
+https://centurylink.gcp.br.cdn.booyah.live/hls/151073/master_34850987.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://raw.githubusercontent.com/kimbrasil/kimbrasil/master/a/playkids.png" group-title="Infantil",Play Kids
 https://playplusdlab-lh.akamaihd.net/i/pp_pkids@377825/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://raw.githubusercontent.com/kimbrasil/kimbrasil/master/a/disneych.png" group-title="Infantil",Disney Channel
