@@ -261,7 +261,7 @@ https://img-edgesport.samsung.wurl.com/manifest/playlist.m3u8
 https://kidoodletv-kdtv-1.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="NewKidTV.us" tvg-name="New Kid TV" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/eEBGlFb.png" group-title="Variedades",New K.ID USA
 https://newidco-newkid-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="VEVO2KUS.us" tvg-name="VEVO 2K (US)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/SG96HGW.jpg" group-title="Variedades",VEVO USA
+#EXTINF:-1 tvg-id="VEVO2KUS.us" tvg-name="VEVO 2K (US)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/SG96HGW.jpg" group-title="Variedades",VEVO 2K
 https://5fa09a21270b74000140368e-samsung.ssai.zype.com/5fa09a21270b74000140368e_samsung/manifest.m3u8
 #EXTINF:-1 tvg-id="YahooFinance.us" tvg-name="Yahoo! Finance" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/kiVL66Q.png" group-title="Notícias",Yahoo! Finance
 https://yahoo-samsung.amagi.tv/playlist.m3u8
@@ -275,3 +275,7 @@ https://demandafrica-por-samsungbr.amagi.tv/playlist.m3u8
 https://insight-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MyTime.br" tvg-name="My Time (Brazil)" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/dvrmA27.jpg" group-title="Variedades",My Time
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Tastemade.br" tvg-name="Tastemade (Brazil)" tvg-language="Portuguese" tvg-logo="https://img.ibxk.com.br/2017/8/programas/15831909143921791.png" group-title="Variedades",Tastemade 
+https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MMATV" tvg-name="MMA TV" tvg-language="English" tvg-logo="https://dr56wvhu2c8zo.cloudfront.net/mmatv/assets/934c8894-7122-43d5-9e56-5d2d29a98245.jpg" group-title="Esportes",MMA TV
+https://alchimie-mmatv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
