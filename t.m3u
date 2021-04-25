@@ -267,3 +267,11 @@ https://5fa09a21270b74000140368e-samsung.ssai.zype.com/5fa09a21270b74000140368e_
 https://yahoo-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ZooMoo.us" tvg-name="Zoo Moo" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/1wYnA2i.jpg" group-title="Infantil",Zoo Moo USA
 https://rockentertainment-zoomoo-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="Runtime.br" tvg-name="Runtime (Brazil)" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/YZ05tBr.png" group-title="Variedades",Runtime
+https://runtimebrazil-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="DemandAfrica.br" tvg-name="Demand Africa (Brazil)" tvg-language="Portuguese" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/610LJAVOhxL.png" group-title="Variedades",Demand Africa 
+https://demandafrica-por-samsungbr.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="InsightTV.br" tvg-name="Insight TV (Brazil)" tvg-language="Portuguese" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41apceYZZ9L.png" group-title="Esportes",Insight TV
+https://insight-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MyTime.br" tvg-name="My Time (Brazil)" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/dvrmA27.jpg" group-title="Variedades",My Time
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
