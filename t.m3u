@@ -117,7 +117,7 @@ https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/master.m3u8
 http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/master.m3u8
 #EXTINF:-1 tvg-id="woohoo.br" tvg-name="WooHoo Brasil" tvg-language="Portuguese" tvg-logo="https://tatame.com.br/wp-content/uploads/2020/03/woohoo-1.jpg" group-title="Esportes",WooHoo
 https://cdn-1.nxplay.com.br/WOOHOO_NXPLAY/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_fishtv_m.png" group-title="Variedades",FISH TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_fishtv_m.png" group-title="Esportes",FISH TV
 https://cdn-1.nxplay.com.br/FISH_TV_NX/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://tntsports.com.br/__export/1610630798389/sites/esporteinterativo/arte/apps/precomposed_20210114.png_285119621.png" group-title="Esportes",TNT Sports
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8
