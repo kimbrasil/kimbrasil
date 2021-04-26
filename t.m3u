@@ -119,14 +119,12 @@ http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/master.m3u8
 https://cdn-1.nxplay.com.br/WOOHOO_NXPLAY/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_fishtv_m.png" group-title="Esportes",FISH TV
 https://cdn-1.nxplay.com.br/FISH_TV_NX/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://tntsports.com.br/__export/1610630798389/sites/esporteinterativo/arte/apps/precomposed_20210114.png_285119621.png" group-title="Esportes",TNT Sports
-https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://tntsports.com.br/__export/1610630798389/sites/esporteinterativo/arte/apps/precomposed_20210114.png_285119621.png" group-title="Esportes",Originais TNT Sports
 https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniUaWgpy5hzjH7BSCcbkOHRRZBFwDRHZbhKUfQ3=s900-c-k-c0x00ffffff-no-rj" group-title="Esportes",De Placa TNT Sports
 https://k0uzvptvud.akamaized.net/live/canal_02/playlist.m3u8?sjwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJrMHV6dnB0dnVkLmFrYW1haXplZC5uZXQiLCJ1cmlfc3ViIjoiL2xpdmUvY2FuYWxfMDIiLCJqdGkiOiIzZDE4NjdlNy02YzdiLTRhZDYtYWE5Ni0xMjk1MTQ2ZmRkYmYiLCJpYXQiOjE2MTU5OTE1ODksIm5iZiI6MTYxNTk5MTUyOSwiZXhwIjoxNjE2MDM0Nzg5LCJkaW5hbWljbyI6MSwidXNlcl9pZCI6IjkyMGM4Y2UyLTllNmMtNDNjYy04YzdiLWIzM2QwNjI3YWU2ZiJ9.ttrZml3r6ZW1OfvXIEA4uDqTrsVNZAsoprikyD5h8TU
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://play-lh.googleusercontent.com/CUHamqYKEjorHawSLd6Z_T1L_tuyTZYYgh2ppOQieIIXf7BhgKhWCkFEN8FyJJbXmtE=s180-rw" group-title="Esportes",Estádio TNT Sports
-https://live.cdn.br.estadio.com/live/canal_08/playlist.m3u8?sjwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJsaXZlLmNkbi5ici5lc3RhZGlvLmNvbSIsInVyaV9zdWIiOiIvbGl2ZS9jYW5hbF8wOCIsImp0aSI6ImUyODQwNTU4LWM0YzAtNDE4YS1hNmExLTg4NzAxY2MyM2NiMSIsImlhdCI6MTYxNTk5MTAxNiwibmJmIjoxNjE1OTkwOTU2LCJleHAiOjE2MTYwMzQyMTYsImRpbmFtaWNvIjoxLCJ1c2VyX2lkIjoiOTIwYzhjZTItOWU2Yy00M2NjLThjN2ItYjMzZDA2MjdhZTZmIn0.CYSenYC06e6E0w3_wc6Hds-d8WgO7dLPDvlRCtr4PEs
+https://k0uzvptvud.akamaized.net/live/canal_09/playlist.m3u8?sjwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJrMHV6dnB0dnVkLmFrYW1haXplZC5uZXQiLCJ1cmlfc3ViIjoiL2xpdmUvY2FuYWxfMDkiLCJqdGkiOiIzYzkyMjFlZi1hMTgwLTRkZTEtOGMyMS05MGUwMDFkOTQzNDUiLCJpYXQiOjE2MTk0NjE5OTAsIm5iZiI6MTYxOTQ2MTkzMCwiZXhwIjoxNjE5NTA1MTkwLCJkaW5hbWljbyI6MSwidXNlcl9pZCI6IjkyMGM4Y2UyLTllNmMtNDNjYy04YzdiLWIzM2QwNjI3YWU2ZiJ9.nnIYnpnPhaCJrAaZGnIeVGQxf4ytgvKg5v_Q4s4s-P0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/wULpnYR.png" group-title="Esportes",ALL Sports
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TraceSSLogo.png/640px-TraceSSLogo.png" group-title="Esportes",TRACE Sport Stars
