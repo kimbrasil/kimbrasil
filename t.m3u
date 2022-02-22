@@ -33,7 +33,7 @@ https://stream-04.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl5zzrronfDaFoRsa1C
 http://168.205.87.198:8555/live/leila/123456/137.m3u8
 #EXTINF:-1 tvg-id="TVGuara.br" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/ff/Logotipo_TV_Guar%C3%A1.png" group-title="Aberta",TV Guará
 https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/playlist.m3u8
-#EXTINF:-1 tvg-id="Futura.br" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/242px-Canal_Futura.png" group-title="Educativa",Futura
+#EXTINF:-1 tvg-id="Futura.br" tvg-name="Canal Futura" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/242px-Canal_Futura.png" group-title="Educativa",Canal Futura
 http://168.205.87.198:8555/live/leila/123456/67.m3u8
 #EXTINF:-1 tvg-id="tvbrasil.br" tvg-name="TV Brasil" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/Y0lCaVF.png" group-title="Aberta",TV Brasil
 http://168.205.87.198:8555/live/leila/123456/135.m3u8
