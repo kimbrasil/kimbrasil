@@ -1,39 +1,39 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="Aberta",Globo ?
+#EXTINF:-1 tvg-id="RedeGlobo.br" tvg-name="Rede Globo Minas" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="Aberta",Globo Minas
 http://168.205.87.198:8555/live/leila/123456/70.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-0-1536x1536.png" group-title="Aberta",Band Web
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="Band" tvg-language="Portuguese" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-0-1536x1536.png" group-title="Aberta",Band Web
 http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9a/RedeTV%21_logo_2019.png" group-title="Aberta",RedeTV!
 https://hls.brasilstream.com.br/live/redetv/redetv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="Aberta",Record Bahia
+#EXTINF:-1 tvg-id="RecordItapoan.br" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="Aberta",Record Bahia
 https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="Aberta",Record Brasília
+#EXTINF:-1 tvg-id="Record.br" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="Aberta",Record Brasília
 https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="Aberta",Record Goiás
+#EXTINF:-1 tvg-id="RecordGoias.Br" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="Aberta",Record Goiás
 https://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="Aberta",Record Manaus
+#EXTINF:-1 tvg-id="Record.br" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="Aberta",Record Manaus
 https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="Aberta",Record Minas
+#EXTINF:-1 tvg-id="RecordMinas.br" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="Aberta",Record Minas
 https://playplusbh-lh.akamaihd.net/i/pp_bh@377862/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="Aberta",Record Pará
+#EXTINF:-1 tvg-id="RecordBelem.br" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="Aberta",Record Pará
 https://playpluspa-lh.akamaihd.net/i/pp_pa@377468/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="Aberta",Record Rio de Janeiro
+#EXTINF:-1 tvg-id="RecordRio.br" tvg-name="Record Rio de Janeiro" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="Aberta",Record Rio de Janeiro
 https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="Aberta",Record Rio Grande do Sul
+#EXTINF:-1 tvg-id="RecordRioGrandedoSul.br" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="Aberta",Record Rio Grande do Sul
 https://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="Aberta",Record SP
+#EXTINF:-1 tvg-id="RecordSaoPaulo.br" tvg-name="Record São Paulo" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="Aberta",Record SP
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
 #EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT" tvg-language="Portuguese" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-5.png" group-title="Aberta",SBT SP
 http://168.205.87.198:8555/live/leila/123456/104.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/OLYyZDD.png" group-title="Aberta",Rede Minas
+#EXTINF:-1 tvg-id="RedeMinas.br" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/OLYyZDD.png" group-title="Aberta",Rede Minas
 https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/765Cn9I.png" group-title="Aberta",TV Cultura SP
+#EXTINF:-1 tvg-id="TVCulturaNacional.br" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/765Cn9I.png" group-title="Aberta",TV Cultura SP
 https://stream-04.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl5zzrronfDaFoRsa1CpsxEY)/dm/3/x7wur7g/s/live-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/aU56c0K.png" group-title="Educativa",TV Escola
+#EXTINF:-1 tvg-id="TVEscola.br" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/aU56c0K.png" group-title="Educativa",TV Escola
 http://168.205.87.198:8555/live/leila/123456/137.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/ff/Logotipo_TV_Guar%C3%A1.png" group-title="Aberta",TV Guará
+#EXTINF:-1 tvg-id="TVGuara.br" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/ff/Logotipo_TV_Guar%C3%A1.png" group-title="Aberta",TV Guará
 https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/242px-Canal_Futura.png" group-title="Educativa",Futura
+#EXTINF:-1 tvg-id="Futura.br" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/242px-Canal_Futura.png" group-title="Educativa",Futura
 http://168.205.87.198:8555/live/leila/123456/67.m3u8
 #EXTINF:-1 tvg-id="tvbrasil.br" tvg-name="TV Brasil" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/Y0lCaVF.png" group-title="Aberta",TV Brasil
 http://168.205.87.198:8555/live/leila/123456/135.m3u8
@@ -45,7 +45,7 @@ https://runtimebrazil-samsungbrazil.amagi.tv/playlist.m3u8
 https://demandafrica-por-samsungbr.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MyTime.br" tvg-name="My Time (Brazil)" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/dvrmA27.jpg" group-title="Variedades",My Time
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/TxdOyKS.png" group-title="Variedades",Yeeaah!
+#EXTINF:-1 tvg-id="Yeeaah.br" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/TxdOyKS.png" group-title="Variedades",Yeeaah!
 http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
 #EXTINF:-1 tvg-id="Arte1.br" tvg-name="Arte1 (Brazil)" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Arte_1_logo.svg/480px-Arte_1_logo.svg.png" group-title="Variedades",Arte1
 http://168.205.87.198:8555/live/leila/123456/170.m3u8
@@ -67,9 +67,9 @@ https://rede-muhler-recordnews-1-br.samsung.wurl.com/manifest/playlist.m3u8
 http://168.205.87.198:8555/live/leila/123456/28.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/900px-CNN.svg.png" group-title="Notícias",CNN
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=209&deviceId=5421f71da6af422839419cb3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-id="CNNInternational.us" tvg-name="CNN International" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/2BXCg0x.jpg" group-title="Notícias",CNN International
+#EXTINF:-1 tvg-id="CNNInternationalAsiaPacific.us" tvg-name="CNN International" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/2BXCg0x.jpg" group-title="Notícias",CNN International
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://cdn-profiles.tunein.com/s47135/images/logog.png" group-title="Notícias",Bloomberg 4K
+#EXTINF:-1 tvg-id="BloombergTVBrazil.us" tvg-name="" tvg-language="English" tvg-logo="https://cdn-profiles.tunein.com/s47135/images/logog.png" group-title="Notícias",Bloomberg 4K
 https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="EuronewsPortugues.fr" tvg-country="PT;BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1000px-Euronews_2016_logo.svg.png" group-title="Notícias",Euronews Português
 https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
@@ -83,11 +83,11 @@ https://rakuten-euronews-5-de.samsung.wurl.com/manifest/playlist.m3u8
 https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="DarkMatterTVBrazil.us" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DarkMatterTV_218x218.png?raw=true" group-title="Variedades",Dark Matter TV Brazil
 https://darkmatter-por-samsungbrazil.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_cinebrasil-tv_m.png" group-title="Filmes",Cine Brasil TV
+#EXTINF:-1 tvg-id="CineBrasilTV.br" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_cinebrasil-tv_m.png" group-title="Filmes",Cine Brasil TV
 http://168.205.87.198:8555/live/leila/123456/145.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://img2.gratispng.com/20180410/rfe/kisspng-tnt-series-turner-broadcasting-system-television-l-comedy-5acc428b20ba37.0820969215233358191341.jpg" group-title="Filmes",TNT
+#EXTINF:-1 tvg-id="" tvg-name="TNTBrasil.us" tvg-language="Portuguese" tvg-logo="https://img2.gratispng.com/20180410/rfe/kisspng-tnt-series-turner-broadcasting-system-television-l-comedy-5acc428b20ba37.0820969215233358191341.jpg" group-title="Filmes",TNT
 http://168.205.87.198:8555/live/leila/123456/116.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="Filmes",TNT Series
+#EXTINF:-1 tvg-id="" tvg-name="TNTSeriesBrasil.us" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="Filmes",TNT Series
 http://168.205.87.198:8555/live/leila/123456/117.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/WNAiO2y.jpg" group-title="Variedades",Mega
 http://168.205.87.198:8555/live/leila/123456/75.m3u8
@@ -97,37 +97,37 @@ http://168.205.87.198:8555/live/leila/123456/30.m3u8
 http://168.205.87.198:8555/live/leila/123456/24.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/Qr8LJHf.jpg" group-title="Música",America Latino
 http://168.205.87.198:8555/live/leila/123456/16.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery_m.png" group-title="Variedades",Discovery Channel
+#EXTINF:-1 tvg-id="DiscoveryChannelBrasil.us" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery_m.png" group-title="Variedades",Discovery Channel
 http://168.205.87.198:8555/live/leila/123456/33.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo-1.png" group-title="Variedades",Discovery Home & Health
+#EXTINF:-1 tvg-id="DiscoveryHomeHealthBrasil.us" tvg-name="" tvg-language="Portuguese" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo-1.png" group-title="Variedades",Discovery Home & Health
 http://168.205.87.198:8555/live/leila/123456/35.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/InvestigationDiscoveryLogo2020.svg" group-title="Variedades",Discovery ID
+#EXTINF:-1 tvg-id="InvestigacaoDiscoveryBrasil.us" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/InvestigationDiscoveryLogo2020.svg" group-title="Variedades",Discovery ID
 http://168.205.87.198:8555/live/leila/123456/36.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_fishtv_m.png" group-title="Esportes",FISH TV
+#EXTINF:-1 tvg-id="FishTV.br" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_fishtv_m.png" group-title="Esportes",FISH TV
 http://168.205.87.198:8555/live/leila/123456/62.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/FashionTV2019novo.png/496px-FashionTV2019novo.png" group-title="Variedades",Fashion TV
+#EXTINF:-1 tvg-id="FashionTVBrazil.fr" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/FashionTV2019novo.png/496px-FashionTV2019novo.png" group-title="Variedades",Fashion TV
 http://168.205.87.198:8555/live/leila/123456/61.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://raw.githubusercontent.com/kimbrasil/kimbrasil/master/a/disneych.png" group-title="Infantil",Disney Channel
+#EXTINF:-1 tvg-id="DisneyChannelBrasil.us" tvg-name="" tvg-language="Portuguese" tvg-logo="https://raw.githubusercontent.com/kimbrasil/kimbrasil/master/a/disneych.png" group-title="Infantil",Disney Channel
 http://168.205.87.198:8555/live/leila/123456/45.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://raw.githubusercontent.com/kimbrasil/kimbrasil/master/a/disneyjr.png" group-title="Infantil",Disney Junior
+#EXTINF:-1 tvg-id="DisneyJuniorBrasil.us" tvg-name="" tvg-language="Portuguese" tvg-logo="https://raw.githubusercontent.com/kimbrasil/kimbrasil/master/a/disneyjr.png" group-title="Infantil",Disney Junior
 http://168.205.87.198:8555/live/leila/123456/46.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://raw.githubusercontent.com/kimbrasil/kimbrasil/master/a/disneyxd.png" group-title="Infantil",Disney XD
+#EXTINF:-1 tvg-id="DisneyXDBrasil.us" tvg-name="" tvg-language="Portuguese" tvg-logo="https://raw.githubusercontent.com/kimbrasil/kimbrasil/master/a/disneyxd.png" group-title="Infantil",Disney XD
 http://168.205.87.198:8555/live/leila/123456/47.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="Infantil",Discovery Kids
+#EXTINF:-1 tvg-id="DiscoveryKidsBrasil.us" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="Infantil",Discovery Kids
 http://168.205.87.198:8555/live/leila/123456/37.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png" group-title="Infantil",TV RaTimBum
+#EXTINF:-1 tvg-id="TVRaTimBum.br" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png" group-title="Infantil",TV RaTimBum
 http://168.205.87.198:8555/live/leila/123456/84.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Cartoon_Network_logo_%282004-2010%29.svg/320px-Cartoon_Network_logo_%282004-2010%29.svg.png" group-title="Infantil",Cartoon Network
+#EXTINF:-1 tvg-id="CartoonNetworkBrasil.br" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Cartoon_Network_logo_%282004-2010%29.svg/320px-Cartoon_Network_logo_%282004-2010%29.svg.png" group-title="Infantil",Cartoon Network
 http://168.205.87.198:8555/live/leila/123456/26.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://abral.org.br/wp-content/uploads/2021/12/Cartonito1.png" group-title="Infantil",Cartoonito
 http://168.205.87.198:8555/live/leila/123456/22.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://www.zoomookids.com.br/wp-content/uploads/2020/02/ZooMoo-Kids-2020.png" group-title="Infantil",ZooMoo Kids
+#EXTINF:-1 tvg-id="ZooMooBrasil.nz" tvg-name="" tvg-language="Portuguese" tvg-logo="https://www.zoomookids.com.br/wp-content/uploads/2020/02/ZooMoo-Kids-2020.png" group-title="Infantil",ZooMoo Kids
 http://168.205.87.198:8555/live/leila/123456/162.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/YCR386w.png" group-title="Educativa",CATVE
 http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/2b51a02ccbbfcd95f531d2bec137d6dc.webp" group-title="Educativa",Master TV
 http://wowza4.catve.com.br:1935/mastertv/livestream/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/TVE_Bahia_logo.svg/800px-TVE_Bahia_logo.svg.png" group-title="Educativa",TVE Bahia
+#EXTINF:-1 tvg-id="TVEBahia.br" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/TVE_Bahia_logo.svg/800px-TVE_Bahia_logo.svg.png" group-title="Educativa",TVE Bahia
 http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/28/Logotipo_do_Canal_FDR.png" group-title="Educativa",Canal FDR
 https://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
@@ -139,13 +139,13 @@ https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
 https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
 #EXTINF:-1 tvg-id="bandsports.br" tvg-name="Band Sports" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/TG25xuW.png" group-title="Esportes",Band Sports
 http://168.205.87.198:8555/live/leila/123456/176.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/t9ZZhSI.png" group-title="Esportes",ESPN Brasil
+#EXTINF:-1 tvg-id="ESPNBrasil.us" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/t9ZZhSI.png" group-title="Esportes",ESPN Brasil
 http://168.205.87.198:8555/live/leila/123456/50.m3u8
-#EXTINF:-1 tvg-id="ESPN2.br" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/H84bwyI.png" group-title="Esportes",ESPN 2
+#EXTINF:-1 tvg-id="ESPN2Brasil.us" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/H84bwyI.png" group-title="Esportes",ESPN 2
 http://168.205.87.198:8555/live/leila/123456/60.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/QusWJuw.png" group-title="Esportes",ESPN 3
+#EXTINF:-1 tvg-id="ESPN3Brasil.us" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/QusWJuw.png" group-title="Esportes",ESPN 3
 http://168.205.87.198:8555/live/leila/123456/49.m3u8
-#EXTINF:-1 tvg-id="ESPN.br" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/VS0JbNj.png" group-title="Esportes",ESPN Extra
+#EXTINF:-1 tvg-id="ESPNExtraBrasil.us" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/VS0JbNj.png" group-title="Esportes",ESPN Extra
 http://168.205.87.198:8555/live/leila/123456/51.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/A4GMBN6.png" group-title="Esportes",Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
