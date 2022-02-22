@@ -191,7 +191,7 @@ http://evpp.mm.uol.com.br:1935/geob_band/agromais/chunklist.m3u8
 http://stream.furg.br:80/hls/furgtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/5VtLILS.png" group-title="Regional",Rede ConecTV
 https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
-#EXTINF:-1 tvg-id="TVE.br" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/XLD3GbZ.png" group-title="Educativa",TV Educativa de Porto Alegre
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/XLD3GbZ.png" group-title="Educativa",TV Educativa de Porto Alegre
 http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/y2gZuyq.png" group-title="Educativa",TV Faap
 http://midia.faap.br/faaplatamlive-live/stream_480/livestream.m3u8
@@ -279,7 +279,7 @@ http://51.79.193.108:8080/hls/j00026/index.m3u8
 https://sub2.neetball.net/live/neet.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://4vector.com/i/free-vector-multivision_043998_multivision.png" group-title="Internacional",Multivision Bolivia
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/800px-Logo_TVE-1.svg.png" group-title="Internacional",La 1 HD Espanha
+#EXTINF:-1 tvg-id="TVE.br" tvg-name="" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/800px-Logo_TVE-1.svg.png" group-title="Internacional",La 1 HD Espanha
 http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/800px-Logo_TVE-24h.svg.png" group-title="Notícias Int",24h HD Espanha
 https://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
