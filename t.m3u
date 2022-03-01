@@ -231,53 +231,53 @@ http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.
 http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://www.cinefrance.com.br/_destaques/tv5monde.jpeg" group-title="Notícias",TV5 Monde Info
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gtv_logo_ja_01.svg/800px-Gtv_logo_ja_01.svg.png" group-title="Internacional",Gunma TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese" x-tvg-url="https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gtv_logo_ja_01.svg/800px-Gtv_logo_ja_01.svg.png" group-title="Internacional",Gunma TV
 https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/4yRulEZ.png" group-title="Internacional",NHK Chinese Vision
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese" tvg-logo="https://i.imgur.com/Ya4yHpC.jpg" group-title="Notícias",NTV News24
+#EXTINF:-1 tvg-id="" tvg-name="" x-tvg-url="https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml" tvg-language="Japanese" tvg-logo="https://i.imgur.com/Ya4yHpC.jpg" group-title="Notícias",NTV News24
 https://www.news24.jp/livestream/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="Internacional",Tokyo MX1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese" x-tvg-url="https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="Internacional",Tokyo MX1
 https://movie.mcas.jp/mcas/smil:mx1_prod.smil/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="Internacional",Tokyo MX2
 https://movie.mcas.jp/mcas/smil:mx2_prod.smil/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese" tvg-logo="https://dbbovgtu2bg0x.cloudfront.net/uploads/program/main_image/749853303/app_app_wether_news.png" group-title="Tempo Int",Weather News
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese"  x-tvg-url="https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml" tvg-logo="https://dbbovgtu2bg0x.cloudfront.net/uploads/program/main_image/749853303/app_app_wether_news.png" group-title="Tempo Int",Weather News
 http://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
-#EXTINF:-1 tvg-id="BSAsahi.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.bs-asahi.co.jp/wp-content/uploads/2019/07/bsasahi_pr_sns.jpg" group-title="Internacional",BS Asahi
+#EXTINF:-1 tvg-id="BSAsahi.jp" tvg-country="JP" x-tvg-url="https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml" tvg-language="Japanese" tvg-logo="https://www.bs-asahi.co.jp/wp-content/uploads/2019/07/bsasahi_pr_sns.jpg" group-title="Internacional",BS Asahi
 http://51.79.193.108:8080/hls/j00048/index.m3u8
-#EXTINF:-1 tvg-id="BSNipponTV.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/640px-BS4_logo.svg.png" group-title="Internacional",BS Nippon TV
+#EXTINF:-1 tvg-id="BSNipponTV.jp" tvg-country="JP" x-tvg-url="https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/640px-BS4_logo.svg.png" group-title="Internacional",BS Nippon TV
 http://51.79.193.108:8080/hls/j00047/index.m3u8
-#EXTINF:-1 tvg-id="BSTVTokyo.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/BS_Japan_logo.png" group-title="Internacional",BS TV Tokyo
+#EXTINF:-1 tvg-id="BSTVTokyo.jp" tvg-country="JP" x-tvg-url="https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml" tvg-language="Japanese" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/BS_Japan_logo.png" group-title="Internacional",BS TV Tokyo
 http://51.79.193.108:8080/hls/j00050/index.m3u8
-#EXTINF:-1 tvg-id="FujiTV.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fuji_TV_logo.svg/492px-Fuji_TV_logo.svg.png" group-title="Internacional",Fuji TV
+#EXTINF:-1 tvg-id="FujiTV.jp" tvg-country="JP" x-tvg-url="https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fuji_TV_logo.svg/492px-Fuji_TV_logo.svg.png" group-title="Internacional",Fuji TV
 http://51.79.193.108:8080/hls/j00010/index.m3u8
-#EXTINF:-1 tvg-id="BSTBS.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/BS-TBS_2020.svg/1024px-BS-TBS_2020.svg.png" group-title="Internacional",BS-TBS
+#EXTINF:-1 tvg-id="BSTBS.jp" tvg-country="JP" x-tvg-url="https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/BS-TBS_2020.svg/1024px-BS-TBS_2020.svg.png" group-title="Internacional",BS-TBS
 http://51.79.193.108:8080/hls/j00051/index.m3u8
-#EXTINF:-1 tvg-id="MBS.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/640px-Mainichi_Broadcasting_System_logo.svg.png" group-title="Internacional",MBS (Mainichi Broadcasting System)
+#EXTINF:-1 tvg-id="MBS.jp" tvg-country="JP" x-tvg-url="https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/640px-Mainichi_Broadcasting_System_logo.svg.png" group-title="Internacional",MBS (Mainichi Broadcasting System)
 http://51.79.193.108:8080/hls/j00038/index.m3u8
-#EXTINF:-1 tvg-id="NHKEducational.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png/480px-NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png" group-title="Internacional",NHKE
+#EXTINF:-1 tvg-id="NHKEducational.jp" tvg-country="JP" x-tvg-url="https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png/480px-NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png" group-title="Internacional",NHKE
 http://iptv.tvfix.org/hls/nhke.m3u8
-#EXTINF:-1 tvg-id="NHKBS1.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/NHK_BS1_%282020%29.svg/revision/latest/scale-to-width-down/200" group-title="Internacional",NHK BS1
+#EXTINF:-1 tvg-id="NHKBS1.jp" tvg-country="JP" x-tvg-url="https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml" tvg-language="Japanese" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/NHK_BS1_%282020%29.svg/revision/latest/scale-to-width-down/200" group-title="Internacional",NHK BS1
 http://51.79.193.108:8080/hls/j00037/index.m3u8
-#EXTINF:-1 tvg-id="NHKBSPremium.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/NHK_BS%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0_%E6%96%B0%E3%83%AD%E3%82%B4_%282020%29.svg/revision/latest/scale-to-width-down/200" group-title="Internacional",NHK BSP
+#EXTINF:-1 tvg-id="NHKBSPremium.jp" tvg-country="JP" x-tvg-url="https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml" tvg-language="Japanese" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/NHK_BS%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0_%E6%96%B0%E3%83%AD%E3%82%B4_%282020%29.svg/revision/latest/scale-to-width-down/200" group-title="Internacional",NHK BSP
 http://51.79.193.108:8080/hls/j00036/index.m3u8
-#EXTINF:-1 tvg-id="NHKGOsaka.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png/480px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="Internacional",NHK G Osaka
+#EXTINF:-1 tvg-id="NHKGOsaka.jp" tvg-country="JP" x-tvg-url="https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png/480px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="Internacional",NHK G Osaka
 http://51.79.193.108:8080/hls/j00032/index.m3u8
-#EXTINF:-1 tvg-id="NHKGTokyo.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png/480px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="Internacional",NHK G Tokyo
+#EXTINF:-1 tvg-id="NHKGTokyo.jp" tvg-country="JP" x-tvg-url="https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png/480px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="Internacional",NHK G Tokyo
 http://51.79.193.108:8080/hls/j00033/index.m3u8
-#EXTINF:-1 tvg-id="NipponTV.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/640px-Nippon_TV_logo_2014.svg.png" group-title="Internacional",Nippon TV
+#EXTINF:-1 tvg-id="NipponTV.jp" tvg-country="JP" x-tvg-url="https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/640px-Nippon_TV_logo_2014.svg.png" group-title="Internacional",Nippon TV
 http://51.79.193.108:8080/hls/j00004/index.m3u8
-#EXTINF:-1 tvg-id="JORXDTV.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/640px-Tokyo_Broadcasting_System_logo_2020.svg.png" group-title="Internacional",TBS
+#EXTINF:-1 tvg-id="JORXDTV.jp" tvg-country="JP" x-tvg-url="https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/640px-Tokyo_Broadcasting_System_logo_2020.svg.png" group-title="Internacional",TBS
 http://51.79.193.108:8080/hls/j00031/index.m3u8
-#EXTINF:-1 tvg-id="TVAsahi.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/640px-TV_Asahi_Logo.svg.png" group-title="Internacional",TV Asahi
+#EXTINF:-1 tvg-id="TVAsahi.jp" tvg-country="JP" x-tvg-url="https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/640px-TV_Asahi_Logo.svg.png" group-title="Internacional",TV Asahi
 http://51.79.193.108:8080/hls/j00014/index.m3u8
-#EXTINF:-1 tvg-id="TVOsaka.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.imgur.com/HeaNPty.png" group-title="Internacional",TV Osaka
+#EXTINF:-1 tvg-id="TVOsaka.jp" tvg-country="JP" x-tvg-url="https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml" tvg-language="Japanese" tvg-logo="https://i.imgur.com/HeaNPty.png" group-title="Internacional",TV Osaka
 http://51.79.193.108:8080/hls/j00013/index.m3u8
-#EXTINF:-1 tvg-id="JOTXDTV.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.imgur.com/vgEnHX6.png" group-title="Internacional",TV Tokyo
+#EXTINF:-1 tvg-id="JOTXDTV.jp" tvg-country="JP" x-tvg-url="https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml" tvg-language="Japanese" tvg-logo="https://i.imgur.com/vgEnHX6.png" group-title="Internacional",TV Tokyo
 http://51.79.193.108:8080/hls/j00012/index.m3u8
-#EXTINF:-1 tvg-id="AnimaxJapan.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.imgur.com/zpi6mQ3.png" group-title="Internacional",Animax Japan
+#EXTINF:-1 tvg-id="AnimaxJapan.jp" tvg-country="JP" x-tvg-url="https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml" tvg-language="Japanese" tvg-logo="https://i.imgur.com/zpi6mQ3.png" group-title="Internacional",Animax Japan
 http://51.79.193.108:8080/hls/j00026/index.m3u8
-#EXTINF:-1 tvg-id="ATX.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.at-x.com/favicon_android.png" group-title="Internacional",AT-X Japan
+#EXTINF:-1 tvg-id="ATX.jp" tvg-country="JP" x-tvg-url="https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml" tvg-language="Japanese" tvg-logo="https://www.at-x.com/favicon_android.png" group-title="Internacional",AT-X Japan
 https://sub2.neetball.net/live/neet.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://4vector.com/i/free-vector-multivision_043998_multivision.png" group-title="Internacional",Multivision Bolivia
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
