@@ -114,7 +114,7 @@
     font-family: 'ArialMT Regular';
     font-style: normal;
     font-weight: normal;
-    src: local('ArialMT Regular'), url('arialmt.woff') format('woff');
+    src: local('ArialMT Regular'), url('https://github.com/kimbrasil/kimbrasil/raw/master/fonts/arialmt.woff') format('woff');
     }
     
 
